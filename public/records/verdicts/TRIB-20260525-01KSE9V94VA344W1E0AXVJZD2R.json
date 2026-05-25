@@ -1,0 +1,28 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9V94HPA8G784KVDF1MGH3",
+  "assignment_success": false,
+  "created_at": "2026-05-25T00:51:35Z",
+  "flag_reasons": [
+    "TIER_PROPOLIS",
+    "LOW_RUBRIC_ACCURACY:0.0",
+    "LOW_RUBRIC_CRE_JUDGMENT:0.0",
+    "LOW_RUBRIC_FORMAT:0.0",
+    "LOW_RUBRIC_SCORE:0.0"
+  ],
+  "flag_severity": "warn",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Receipt is a stub with no actual assignment content, tribunal verdicts, or client language - completely empty intake that fails all CRE broker criteria",
+  "receipt_id": "DRR-20260525-01KSE9V94H0GMXWHKQV662K0C2",
+  "rubric_scores": {
+    "accuracy": 0.0,
+    "cre_judgment": 0.0,
+    "format": 0.0,
+    "score": 0.0
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "propolis",
+  "verdict_id": "TRIB-20260525-01KSE9V94VA344W1E0AXVJZD2R",
+  "verdict_sha256": "f0b0635e78c5f00ff92757c3cd0ae12dd913af56d8932eb13f0f81a4ee2dcd30",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

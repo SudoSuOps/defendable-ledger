@@ -1,0 +1,26 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9ZT15PA1JZF0AGE77ZK25",
+  "created_at": "2026-05-25T00:54:05Z",
+  "input": "ring ring · mr defendable here · ship the disposition flight sheet for the franklin avenue STNL · price guidance is locked at 5 cap · need it for the wednesday board call",
+  "output": {
+    "assignment_type": "disposition_flight_sheet",
+    "expected_outputs": [
+      "flight_sheet",
+      "receipt",
+      "comp_set"
+    ],
+    "urgency": "high"
+  },
+  "pair_id": "SJP-20260525-01KSE9ZVCKV1AXRXEYN9VW1T6E",
+  "pair_sha256": "34c4f90853bd70ebce82098c8492d2d6cc8ea6329d8e9f3eb23d08f5b3f7e83f",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSE9ZT152CYAKVD1YSWMV1RE",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.8,
+    "format": 4.5,
+    "score": 4.7
+  },
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSE9ZT1NJBM4N31G0V04K51C"
+}

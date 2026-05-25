@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEA00J9Y6RPY2CM7H7AT3FV",
+  "created_at": "2026-05-25T00:54:12Z",
+  "input": "",
+  "output": {
+    "assignment_type": "empty_intake",
+    "expected_outputs": [],
+    "urgency": "low"
+  },
+  "pair_id": "SJP-20260525-01KSEA01V9ZXQ4BWC0DKNK9VB5",
+  "pair_sha256": "46d3a3a2e93193a81c015acc598ccd0ae637b5fab8a6e14e8698adc7610622dc",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSEA00J91D2QPM7DE7Q2ATCQ",
+  "rubric_scores": {
+    "accuracy": 0.0,
+    "cre_judgment": 0.0,
+    "format": 0.0,
+    "score": 0.0
+  },
+  "tier": "propolis",
+  "verdict_id": "TRIB-20260525-01KSEA00JKX2NY1E91N2VNSPJF"
+}

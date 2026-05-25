@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9ZT15PA1JZF0AGE77ZK25",
+  "assignment_success": true,
+  "created_at": "2026-05-25T00:54:04Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "High-urgency CRE disposition request with specific price guidance (5 cap) and clear deliverables; operator-grade language with real board-call deadline",
+  "receipt_id": "DRR-20260525-01KSE9ZT152CYAKVD1YSWMV1RE",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.8,
+    "format": 4.5,
+    "score": 4.7
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSE9ZT1NJBM4N31G0V04K51C",
+  "verdict_sha256": "a7f9a39b0341871b7741a43caab085555025e55952b8f52be4d295f8728c25ce",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

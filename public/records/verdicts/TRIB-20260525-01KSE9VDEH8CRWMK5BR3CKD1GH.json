@@ -1,0 +1,28 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9VDE7ZJ0C02BXECA2FE6G",
+  "assignment_success": false,
+  "created_at": "2026-05-25T00:51:40Z",
+  "flag_reasons": [
+    "TIER_PROPOLIS",
+    "LOW_RUBRIC_ACCURACY:0.0",
+    "LOW_RUBRIC_CRE_JUDGMENT:0.0",
+    "LOW_RUBRIC_FORMAT:0.0",
+    "LOW_RUBRIC_SCORE:0.0"
+  ],
+  "flag_severity": "warn",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Receipt contains no raw_client_language, assignment_type, or expected_outputs — empty intake with zero operator signal, fails all CRE-broker sniff tests, and provides no verifiable claims or structured assignment data.",
+  "receipt_id": "DRR-20260525-01KSE9VDE7HZFM6YX9J9Y325S9",
+  "rubric_scores": {
+    "accuracy": 0.0,
+    "cre_judgment": 0.0,
+    "format": 0.0,
+    "score": 0.0
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "propolis",
+  "verdict_id": "TRIB-20260525-01KSE9VDEH8CRWMK5BR3CKD1GH",
+  "verdict_sha256": "2cdbcda4f47f33d80d7535e6ba372aa05ac63ec68a5a9eddb54e3530b26c182d",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

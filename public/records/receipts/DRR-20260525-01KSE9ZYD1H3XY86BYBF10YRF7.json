@@ -1,0 +1,53 @@
+{
+  "agent_id": "field-recorder",
+  "app_id": "streetchat",
+  "assignment_id": "ASSIGN-20260525-01KSE9ZYD1PKNDS1KWYVT3G5Z4",
+  "classification": "UNCLASSIFIED",
+  "client_id": "signal-edge-01",
+  "conversation_id": null,
+  "created_at": "2026-05-25T00:54:08Z",
+  "ddeed": {
+    "deed_id": "DDEED-ROUTER-STUB-20260525-01KSE9ZYD23QDV82N72HS91G7X",
+    "deed_ref": "ddeed_stub.json",
+    "deed_status": "STUB_CREATED"
+  },
+  "edge_device_id": "signal-edge-01",
+  "hashes": {
+    "canonical_receipt_sha256": "1c44d8d64eeb1dc416f40ac85bbd23c9346a53799c7a0929c53020d9fe120a1a",
+    "receipt_sha256": "1c8bb473d60391ea0c25395c7b519bb94c92702f9309bcaac0e25071755c04b9"
+  },
+  "input": {
+    "input_bytes": 444,
+    "input_hash": "bdf9cfd4493f5eebc3ccefa20cc7cedeba8a62776156f0fe96a378497104a7c1",
+    "input_ref": "input.json"
+  },
+  "object_storage": {
+    "bucket": "streetledger",
+    "prefix": "router/signal-edge-01/streetchat/ASSIGN-20260525-01KSE9ZYD1PKNDS1KWYVT3G5Z4/",
+    "uri": "s3://streetledger/router/signal-edge-01/streetchat/ASSIGN-20260525-01KSE9ZYD1PKNDS1KWYVT3G5Z4/"
+  },
+  "output": {
+    "output_bytes": 0,
+    "output_hash": null,
+    "output_ref": null
+  },
+  "provenance": {
+    "cuda": "13.1",
+    "gpu": "RTX 5090",
+    "host": "smash",
+    "issued_by": "DefendableRouter"
+  },
+  "receipt_id": "DRR-20260525-01KSE9ZYD1H3XY86BYBF10YRF7",
+  "receipt_type": "DEFENDABLE_ROUTER_RECEIPT",
+  "route": "edge_intake_to_tribunal",
+  "schema_version": "v0.1",
+  "source_type": "edge",
+  "tribunal": {
+    "assignment_success": null,
+    "classification": "UNCLASSIFIED",
+    "evidence_strength": null,
+    "risk_temperature": null,
+    "validator_confidence": null,
+    "verdict_id": "TRIB-STUB-20260525-01KSE9ZYD2RXSEB5TZYR7K56AD"
+  }
+}

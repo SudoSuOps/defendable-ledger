@@ -1,0 +1,28 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEA00J9Y6RPY2CM7H7AT3FV",
+  "assignment_success": false,
+  "created_at": "2026-05-25T00:54:10Z",
+  "flag_reasons": [
+    "TIER_PROPOLIS",
+    "LOW_RUBRIC_ACCURACY:0.0",
+    "LOW_RUBRIC_CRE_JUDGMENT:0.0",
+    "LOW_RUBRIC_FORMAT:0.0",
+    "LOW_RUBRIC_SCORE:0.0"
+  ],
+  "flag_severity": "warn",
+  "graded_by": "swarmcurator-9b",
+  "notes": "empty_intake assignment_type with zero raw_client_language and no expected_outputs - complete failure mode for SwarmFixer training",
+  "receipt_id": "DRR-20260525-01KSEA00J91D2QPM7DE7Q2ATCQ",
+  "rubric_scores": {
+    "accuracy": 0.0,
+    "cre_judgment": 0.0,
+    "format": 0.0,
+    "score": 0.0
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "propolis",
+  "verdict_id": "TRIB-20260525-01KSEA00JKX2NY1E91N2VNSPJF",
+  "verdict_sha256": "4e4c1e2bd22f50fd7f9630ff1723f3608e966a407626957784fd029f914447b8",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

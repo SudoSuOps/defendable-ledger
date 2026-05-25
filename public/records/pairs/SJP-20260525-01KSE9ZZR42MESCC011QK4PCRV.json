@@ -1,0 +1,25 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9ZYD1PKNDS1KWYVT3G5Z4",
+  "created_at": "2026-05-25T00:54:09Z",
+  "input": "captured at the property walk · tenant says HVAC was replaced 2023 · 10 year warranty · keep that in the OM",
+  "output": {
+    "assignment_type": "field_note_ingest",
+    "expected_outputs": [
+      "om_addendum",
+      "receipt"
+    ],
+    "urgency": "normal"
+  },
+  "pair_id": "SJP-20260525-01KSE9ZZR42MESCC011QK4PCRV",
+  "pair_sha256": "ee52af77205e86ca4f0a0323f0c0eeaee33553d14a1b56c091c04053d42ca8ca",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSE9ZYD1H3XY86BYBF10YRF7",
+  "rubric_scores": {
+    "accuracy": 4.0,
+    "cre_judgment": 3.5,
+    "format": 4.5,
+    "score": 3.8
+  },
+  "tier": "jelly",
+  "verdict_id": "TRIB-20260525-01KSE9ZYDCYEY5EWW4W8GBDCCT"
+}

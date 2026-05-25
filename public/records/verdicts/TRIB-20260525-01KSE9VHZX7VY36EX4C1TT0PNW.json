@@ -1,0 +1,28 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9VHZMST5N7YDRERTRSDEG",
+  "assignment_success": false,
+  "created_at": "2026-05-25T00:51:44Z",
+  "flag_reasons": [
+    "TIER_PROPOLIS",
+    "LOW_RUBRIC_ACCURACY:0.0",
+    "LOW_RUBRIC_CRE_JUDGMENT:0.0",
+    "LOW_RUBRIC_FORMAT:0.0",
+    "LOW_RUBRIC_SCORE:0.0"
+  ],
+  "flag_severity": "warn",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Receipt contains no assignment_type, expected_outputs, or raw_client_language - empty intake with zero operator signal",
+  "receipt_id": "DRR-20260525-01KSE9VHZMZC04VDZ37F9JBARX",
+  "rubric_scores": {
+    "accuracy": 0.0,
+    "cre_judgment": 0.0,
+    "format": 0.0,
+    "score": 0.0
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "propolis",
+  "verdict_id": "TRIB-20260525-01KSE9VHZX7VY36EX4C1TT0PNW",
+  "verdict_sha256": "e786478c0ae69cafcb2b92b48a3f2c54b4b4e8eb552bcdc7548830fa6979c42b",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

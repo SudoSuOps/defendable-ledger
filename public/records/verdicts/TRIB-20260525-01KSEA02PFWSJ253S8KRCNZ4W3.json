@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEA02P5A66MRA03QAN1GD5W",
+  "assignment_success": true,
+  "created_at": "2026-05-25T00:54:12Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Principal-level 1031 upleg search with specific price band, cap rate, and tenant criteria; clear urgency and expected outputs; production-grade CRE intake",
+  "receipt_id": "DRR-20260525-01KSEA02P52CBFJ5XWDREDY360",
+  "rubric_scores": {
+    "accuracy": 4.8,
+    "cre_judgment": 4.9,
+    "format": 5.0,
+    "score": 4.9
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "apex",
+  "verdict_id": "TRIB-20260525-01KSEA02PFWSJ253S8KRCNZ4W3",
+  "verdict_sha256": "1624d66a2cef9e5c6719812191e3550783af8611ae050c2c2058b2b782e912b7",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}
