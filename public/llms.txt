@@ -1,9 +1,16 @@
 # DefendableLedger
+#
+# Last updated: 2026-05-25 (v0.1.0 brand-stack lock · Hedera anchoring doctrine cleanup · operator-entity unification)
 
 > The cracked ledger of the DefendableOS ecosystem.
 > Sovereign · in-house · hash-verifiable.
 > Receipts. Verdicts. Training Pairs. Deeds. Books and records.
 > The language lives in the blocks.
+
+## Operator
+
+Swarm and Bee LLC · Florida · D-U-N-S 138652395 · DBA Swarm & Bee AI
+A surface of DefendableOS · the third-party defense layer for AI operators.
 
 ## Canonical surfaces
 - defendableledger.com — primary (Cloudflare Pages · CI-built from git push)
@@ -36,3 +43,24 @@ Sovereign compute. In-house cooks. No external chain anchoring. Receipts first. 
 2. Verdict issued by Tribunal · SwarmCurator-9B (4-dim rubric: accuracy · CRE judgment · format · score)
 3. Training pair extracted by SwarmJelly (Royal Jelly tier routing · in-house corpus)
 4. Deed recorded on DefendableLedger (append-only · hash-chained · publication batched)
+
+## Defendable brand stack · canonical v0.1.0 (2026-05-25)
+
+The DefendableOS ecosystem operates as a 10-domain coordinated brand surface.
+This canonical block supersedes all prior brand-stack definitions across the network.
+
+- **defendableos.com** — SYSTEM · the operating system / product
+- **swarmandbee.ai** — UMBRELLA · operator firm + dataset bakery
+- **opendefendable.com** — OPEN · standards body
+- **defendablerouter.com** — SPINE · drop-in AI router (write-only audit rail)
+- **defendablecloud.com** — COMPUTE · operator-owned private inference (128 RTX 6000 Blackwell)
+- **defendableledger.com** — LEDGER · sovereign in-house books and records
+- **mrdefendable.com** — FACE · principal voice / human interface
+- **offensetotheshed.com** — CULTURE · doctrine + war stories
+- **painintheshed.com** — MEDIA · cost-of-intelligence podcast
+- **defendablehack.com** — DEV · researcher / hacker tier
+
+Legacy / superseded (not part of v0.1.0):
+- ledger.mrdefendable.com → now defendableledger.com
+- chat.mrdefendable.com → deprecated
+- defendabledocs.com → consolidated into defendableos.com
