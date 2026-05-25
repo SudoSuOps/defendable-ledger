@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9DC3FZ2CM333AJSZTQZR1",
+  "assignment_success": false,
+  "created_at": "2026-05-25T00:43:59Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Receipt is structurally valid but tribunal verdict is null; lacks operator-grade evidence strength or risk temperature. Format is clean and verifiable.",
+  "receipt_id": "DRR-20260525-01KSE9DC3FG0RHY9B992K0XD50",
+  "rubric_scores": {
+    "accuracy": 4.0,
+    "cre_judgment": 3.0,
+    "format": 4.5,
+    "score": 3.875
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "jelly",
+  "verdict_id": "TRIB-20260525-01KSE9DC3SKEVAQF0Z171ACVBH",
+  "verdict_sha256": "d285958924d94cfaa69641c34eac50cce78b279fb6f16746fdf4c56cfc0a1e23",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9DA91SXPB28RGN4194YE2",
+  "assignment_success": false,
+  "created_at": "2026-05-25T00:43:58Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Receipt is structurally valid but tribunal verdict is null; lacks operator-grade judgment on risk or evidence strength.",
+  "receipt_id": "DRR-20260525-01KSE9DA91DY9MG2BTCCA36ZHR",
+  "rubric_scores": {
+    "accuracy": 4.0,
+    "cre_judgment": 3.0,
+    "format": 4.5,
+    "score": 3.875
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "jelly",
+  "verdict_id": "TRIB-20260525-01KSE9DA9BZS1V18NW9T87CD55",
+  "verdict_sha256": "ba55c84d36bda861fa5959337c11d43f69b977f50328dee26fc6cdd60537df83",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

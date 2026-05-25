@@ -1,0 +1,25 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9EQKQ44W6XD43QJ4WJVEY",
+  "created_at": "2026-05-25T00:44:46Z",
+  "input": "board wants the 1031 upleg list by friday · price band 12-18M · NNN preferred · 5.5-6.5 cap · STNL or single-tenant industrial · WALT 10+ years",
+  "output": {
+    "assignment_type": "upleg_search",
+    "expected_outputs": [
+      "upleg_targets",
+      "qi_shortlist"
+    ],
+    "urgency": "high"
+  },
+  "pair_id": "SJP-20260525-01KSE9ES346WRJFW7DVAVNF4EC",
+  "pair_sha256": "a161bfd2254f52f1b446d1a0337d3cb73fc69596dc8be1e0fa60e0ebdb455d28",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSE9EQKQ3RA16DTQR0TV833T",
+  "rubric_scores": {
+    "accuracy": 4.0,
+    "cre_judgment": 3.0,
+    "format": 4.5,
+    "score": 3.875
+  },
+  "tier": "jelly",
+  "verdict_id": "TRIB-20260525-01KSE9EQM801QJBJFTVK73P2JV"
+}

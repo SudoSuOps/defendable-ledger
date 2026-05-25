@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9DA91SXPB28RGN4194YE2",
+  "created_at": "2026-05-25T00:43:59Z",
+  "input": "uh yeah just like do the thing with the stuff and send it whenever",
+  "output": {
+    "assignment_type": "unknown",
+    "expected_outputs": [],
+    "urgency": "normal"
+  },
+  "pair_id": "SJP-20260525-01KSE9DBHX3C7HR4TM19W3RQXW",
+  "pair_sha256": "899fdc7c451fb1fab0fbe17de63e710bda1d55816838a417d146662d25d611ea",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSE9DA91DY9MG2BTCCA36ZHR",
+  "rubric_scores": {
+    "accuracy": 4.0,
+    "cre_judgment": 3.0,
+    "format": 4.5,
+    "score": 3.875
+  },
+  "tier": "jelly",
+  "verdict_id": "TRIB-20260525-01KSE9DA9BZS1V18NW9T87CD55"
+}

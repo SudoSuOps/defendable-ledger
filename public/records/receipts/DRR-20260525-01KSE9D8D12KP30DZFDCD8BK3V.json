@@ -1,0 +1,53 @@
+{
+  "agent_id": "communicator-v0",
+  "app_id": "streetchat",
+  "assignment_id": "ASSIGN-20260525-01KSE9D8D274MB3V45C41E267R",
+  "classification": "UNCLASSIFIED",
+  "client_id": "mrdefendable.eth",
+  "conversation_id": null,
+  "created_at": "2026-05-25T00:43:56Z",
+  "ddeed": {
+    "deed_id": "DDEED-ROUTER-STUB-20260525-01KSE9D8D298MRQJ699R0F4C1N",
+    "deed_ref": "ddeed_stub.json",
+    "deed_status": "STUB_CREATED"
+  },
+  "edge_device_id": null,
+  "hashes": {
+    "canonical_receipt_sha256": "391d26afa0441e08abb50534662513a2c3e051f06bd9a3af146f05e84b60e2f1",
+    "receipt_sha256": "80141db9478de1ccc6c6d4bb05d7f5b3f1ae9d747b807b85f588ea5aa7353504"
+  },
+  "input": {
+    "input_bytes": 518,
+    "input_hash": "1f7109755f6a9a57bce5629eb8e8142ce1de5677f16c1bd63bab16704d25e9d8",
+    "input_ref": "input.json"
+  },
+  "object_storage": {
+    "bucket": "streetledger",
+    "prefix": "router/mrdefendable.eth/streetchat/ASSIGN-20260525-01KSE9D8D274MB3V45C41E267R/",
+    "uri": "s3://streetledger/router/mrdefendable.eth/streetchat/ASSIGN-20260525-01KSE9D8D274MB3V45C41E267R/"
+  },
+  "output": {
+    "output_bytes": 0,
+    "output_hash": null,
+    "output_ref": null
+  },
+  "provenance": {
+    "cuda": "13.1",
+    "gpu": "RTX 5090",
+    "host": "smash",
+    "issued_by": "DefendableRouter"
+  },
+  "receipt_id": "DRR-20260525-01KSE9D8D12KP30DZFDCD8BK3V",
+  "receipt_type": "DEFENDABLE_ROUTER_RECEIPT",
+  "route": "street_intake_to_tribunal",
+  "schema_version": "v0.1",
+  "source_type": "call",
+  "tribunal": {
+    "assignment_success": null,
+    "classification": "UNCLASSIFIED",
+    "evidence_strength": null,
+    "risk_temperature": null,
+    "validator_confidence": null,
+    "verdict_id": "TRIB-STUB-20260525-01KSE9D8D29RESV6CYTM5VMDE1"
+  }
+}

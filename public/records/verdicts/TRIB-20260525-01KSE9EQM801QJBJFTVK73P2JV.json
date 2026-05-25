@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE9EQKQ44W6XD43QJ4WJVEY",
+  "assignment_success": false,
+  "created_at": "2026-05-25T00:44:44Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Receipt is structurally valid but tribunal verdict is stubbed with nulls, indicating incomplete adjudication. Input/output hashes present but output is empty, suggesting processing failure or placeholder state.",
+  "receipt_id": "DRR-20260525-01KSE9EQKQ3RA16DTQR0TV833T",
+  "rubric_scores": {
+    "accuracy": 4.0,
+    "cre_judgment": 3.0,
+    "format": 4.5,
+    "score": 3.875
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "jelly",
+  "verdict_id": "TRIB-20260525-01KSE9EQM801QJBJFTVK73P2JV",
+  "verdict_sha256": "c5e7a92ae3993975ac8304bfaa50ae00787def0794eb7bc6cf83b03a3a659e11",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}
