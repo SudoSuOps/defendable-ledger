@@ -1,0 +1,79 @@
+{
+  "claim_boundaries": {
+    "does_not_establish": [
+      "active_sam_registration_status",
+      "cage_code_assignment",
+      "cmmc_certification_at_any_level",
+      "8a_sdvosb_vosb_wosb_hubzone_certification",
+      "active_security_clearance",
+      "past_federal_performance",
+      "awarded_federal_contract",
+      "sba_socio_economic_certification",
+      "deployed_federal_customer_engagement"
+    ],
+    "establishes": [
+      "real_llc_identity_filed_in_sam_gov",
+      "uei_assigned",
+      "primary_naics_541511_registered",
+      "small_business_under_primary_naics_attested",
+      "confirmation_routed_to_canonical_inbox"
+    ],
+    "scope": "submission_milestone_at_timestamp_only",
+    "successor_records_supersede": true,
+    "validity_window": "snapshot_at_submitted_at"
+  },
+  "created_at": "2026-05-25T16:12:18Z",
+  "cross_reference": {
+    "defendableos_commit": "3b73916",
+    "defendableos_repo": "https://github.com/SudoSuOps/defendableos",
+    "entity_relationship_file": "federal/sam_registration/2026-05-25/entity_relationship.md",
+    "federal_corpus_repo": "https://github.com/SudoSuOps/DEFENDABLEOS-FEDERAL-DEMAND-INTELLIGENCE-SWARM",
+    "receipt_trail_path": "federal/sam_registration/2026-05-25/",
+    "tribunal_verdict_file": "federal/sam_registration/2026-05-25/TRIBUNAL_VERDICT.md",
+    "v0_3_corpus_update_plan": "federal/sam_registration/2026-05-25/downstream_implications/federal_corpus_v0_3_update.md"
+  },
+  "doctrine": "Tribunal begins before training. No proof, no honey. Books and records.",
+  "evidence_files": {
+    "anchor_state": "pending_evidence_files",
+    "evidence_directory": "federal/sam_registration/2026-05-25/evidence/",
+    "files_pending": [
+      "sam_submission_confirmation.pdf",
+      "sam_uei_assignment.pdf",
+      "confirmation_email_buildatswarmandbeeai.eml",
+      "florida_sunbiz_llc_filing.pdf",
+      "florida_annual_report.pdf",
+      "mercury_or_choice_bank_verification.pdf",
+      "florida_swarm_and_bee_dba.pdf"
+    ],
+    "note": "Source documents preserved LOCAL ONLY per privacy doctrine. Sha256 hashes will be appended once files land in the operator-local evidence directory.",
+    "sha256_anchors": {}
+  },
+  "host": "swarm-desktop",
+  "issued_by": "Operator",
+  "issued_to": "DefendableLedger",
+  "natural_id": "REG-SAM-20260525-CABALLERZ",
+  "record_type": "REG-SAM",
+  "registration": {
+    "cage_code_assigned": false,
+    "confirmation_routed_to": "build@swarmandbee.ai",
+    "federal_opportunity_lane": "Prime Contractor / DoD-capable opportunities",
+    "legal_entity": "CABALLERZ NETWORK LLC",
+    "operating_brand": "Swarm & Bee",
+    "primary_naics": "541511",
+    "primary_naics_description": "Custom Computer Programming Services",
+    "registration_purpose": "All Awards",
+    "registration_status": "submitted_pending_activation",
+    "small_business_under_primary_naics": true,
+    "state_of_incorporation": "Florida",
+    "submitted_at": "2026-05-25",
+    "uei_assigned": true,
+    "uei_value": "preserved_local_only_per_privacy_doctrine"
+  },
+  "schema_version": "v0.1",
+  "tribunal_verdict": {
+    "issued_at": "2026-05-25T16:12:18Z",
+    "issued_by": "Mr. Defendable",
+    "rationale": "Federal identity submitted, evidence trail preserved, Swarm & Bee is entering the government contracting rail through CABALLERZ NETWORK LLC.",
+    "verdict": "HONEY"
+  }
+}

@@ -15,19 +15,6 @@
   {
     "created_at": "2026-05-25T00:14:08Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 2,
-    "natural_id": "TRIB-20260525-01KSE7PMBRJAQ16KGA0M184VW0",
-    "parent_hash": "b811ddaf6742bb8bd7c872a484a7538256d66b1ec781a2b3663abe0a34563004",
-    "path": "records/verdicts/TRIB-20260525-01KSE7PMBRJAQ16KGA0M184VW0.json",
-    "payload_hash": "b408466fb3518617927a48c20d3292434f509f37f99a4d8cdf9f566bada50f15",
-    "record_id": "DLR-20260525-01KSE7PP6BJ7SKN6A9RCTRG6KT",
-    "record_sha256": "6201246025247f36caa77f6616e2b37a86411cf6e02c2748adf590607d067027",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:14:08Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 3,
     "natural_id": "SJP-20260525-01KSE7PP6MSJH0GMW22KQFTA7R",
@@ -37,6 +24,19 @@
     "record_id": "DLR-20260525-01KSE7PP6SGEHFV03XBG1Q8KAA",
     "record_sha256": "6cdac03e549f9dd34cdcfb8e7e4f37a2b15cc71bd07a2c982486896b60c97e91",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:14:08Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 2,
+    "natural_id": "TRIB-20260525-01KSE7PMBRJAQ16KGA0M184VW0",
+    "parent_hash": "b811ddaf6742bb8bd7c872a484a7538256d66b1ec781a2b3663abe0a34563004",
+    "path": "records/verdicts/TRIB-20260525-01KSE7PMBRJAQ16KGA0M184VW0.json",
+    "payload_hash": "b408466fb3518617927a48c20d3292434f509f37f99a4d8cdf9f566bada50f15",
+    "record_id": "DLR-20260525-01KSE7PP6BJ7SKN6A9RCTRG6KT",
+    "record_sha256": "6201246025247f36caa77f6616e2b37a86411cf6e02c2748adf590607d067027",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:43:56Z",
@@ -54,19 +54,6 @@
   {
     "created_at": "2026-05-25T00:43:57Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 5,
-    "natural_id": "TRIB-20260525-01KSE9D8DBZBR9K5FDZBEGJEQN",
-    "parent_hash": "c3533940d9f0a1e58db09a123398b769a288921b31761bf7c7a46086a14faba3",
-    "path": "records/verdicts/TRIB-20260525-01KSE9D8DBZBR9K5FDZBEGJEQN.json",
-    "payload_hash": "c6f1bfa060e7bd616f156649211246acafa62035742cb32ca2ead7babec61226",
-    "record_id": "DLR-20260525-01KSE9D9PPE81G20742GSB481G",
-    "record_sha256": "3c792bec563b636c769538e4f4df6fa3dcd5b4ae9726b6f7d263aef96074e4fb",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:43:57Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 6,
     "natural_id": "SJP-20260525-01KSE9D9PZ7GMN0BH2Y1PHZ8R1",
@@ -76,6 +63,19 @@
     "record_id": "DLR-20260525-01KSE9D9Q4Q429DDWGDXKJX8S8",
     "record_sha256": "059108d89e309292a182743e5cfcf2edf3731dfda613cf03b039cdcf9b3014ab",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:43:57Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 5,
+    "natural_id": "TRIB-20260525-01KSE9D8DBZBR9K5FDZBEGJEQN",
+    "parent_hash": "c3533940d9f0a1e58db09a123398b769a288921b31761bf7c7a46086a14faba3",
+    "path": "records/verdicts/TRIB-20260525-01KSE9D8DBZBR9K5FDZBEGJEQN.json",
+    "payload_hash": "c6f1bfa060e7bd616f156649211246acafa62035742cb32ca2ead7babec61226",
+    "record_id": "DLR-20260525-01KSE9D9PPE81G20742GSB481G",
+    "record_sha256": "3c792bec563b636c769538e4f4df6fa3dcd5b4ae9726b6f7d263aef96074e4fb",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:43:58Z",
@@ -93,15 +93,15 @@
   {
     "created_at": "2026-05-25T00:43:59Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 8,
-    "natural_id": "TRIB-20260525-01KSE9DA9BZS1V18NW9T87CD55",
-    "parent_hash": "e1deadab152b9a162dd3e2407e92edb733e5836168196061dd6e953c9d78960e",
-    "path": "records/verdicts/TRIB-20260525-01KSE9DA9BZS1V18NW9T87CD55.json",
-    "payload_hash": "f0875f7a8b147d18b2f57fbaaa74d4ebb8d8e094b0e8582ec9c8f8b55494a708",
-    "record_id": "DLR-20260525-01KSE9DBHM73AJTYDM3NZ3JQ0Y",
-    "record_sha256": "d0c66e2d1421b06321477c58001e39588ee4f7fbfc3b401c6b49cd41d737aa3c",
-    "record_type": "VERDICT"
+    "issued_by": "DefendableRouter",
+    "ledger_seq": 10,
+    "natural_id": "DRR-20260525-01KSE9DC3FG0RHY9B992K0XD50",
+    "parent_hash": "cc8af103abaff5cc700186953b889f9221bba1ad52b016f95d2251f3bdc1f99f",
+    "path": "records/receipts/DRR-20260525-01KSE9DC3FG0RHY9B992K0XD50.json",
+    "payload_hash": "f26811c91046b1b09a0661c08f7c4f7a840b14407a7788448cc693c9c1277d9a",
+    "record_id": "DLR-20260525-01KSE9DC3GYPKJNDY6ZF7BK4CY",
+    "record_sha256": "32073d137131d1d8f7a225a7d1da1077481c77db393c188e1ee5f0271cf2a2ae",
+    "record_type": "RECEIPT"
   },
   {
     "created_at": "2026-05-25T00:43:59Z",
@@ -119,27 +119,14 @@
   {
     "created_at": "2026-05-25T00:43:59Z",
     "host": "smash",
-    "issued_by": "DefendableRouter",
-    "ledger_seq": 10,
-    "natural_id": "DRR-20260525-01KSE9DC3FG0RHY9B992K0XD50",
-    "parent_hash": "cc8af103abaff5cc700186953b889f9221bba1ad52b016f95d2251f3bdc1f99f",
-    "path": "records/receipts/DRR-20260525-01KSE9DC3FG0RHY9B992K0XD50.json",
-    "payload_hash": "f26811c91046b1b09a0661c08f7c4f7a840b14407a7788448cc693c9c1277d9a",
-    "record_id": "DLR-20260525-01KSE9DC3GYPKJNDY6ZF7BK4CY",
-    "record_sha256": "32073d137131d1d8f7a225a7d1da1077481c77db393c188e1ee5f0271cf2a2ae",
-    "record_type": "RECEIPT"
-  },
-  {
-    "created_at": "2026-05-25T00:44:01Z",
-    "host": "smash",
     "issued_by": "Tribunal",
-    "ledger_seq": 11,
-    "natural_id": "TRIB-20260525-01KSE9DC3SKEVAQF0Z171ACVBH",
-    "parent_hash": "32073d137131d1d8f7a225a7d1da1077481c77db393c188e1ee5f0271cf2a2ae",
-    "path": "records/verdicts/TRIB-20260525-01KSE9DC3SKEVAQF0Z171ACVBH.json",
-    "payload_hash": "b5cf814186521e5c8641d00be0fecb4be89f409afefb4c9bb5a5ba72352b232f",
-    "record_id": "DLR-20260525-01KSE9DDEMQ17X5Y60S7XCRKJV",
-    "record_sha256": "670cf17b645efda8340b52a9fd587d12a9f825868c08bc1d7c4f3893e5fbc36d",
+    "ledger_seq": 8,
+    "natural_id": "TRIB-20260525-01KSE9DA9BZS1V18NW9T87CD55",
+    "parent_hash": "e1deadab152b9a162dd3e2407e92edb733e5836168196061dd6e953c9d78960e",
+    "path": "records/verdicts/TRIB-20260525-01KSE9DA9BZS1V18NW9T87CD55.json",
+    "payload_hash": "f0875f7a8b147d18b2f57fbaaa74d4ebb8d8e094b0e8582ec9c8f8b55494a708",
+    "record_id": "DLR-20260525-01KSE9DBHM73AJTYDM3NZ3JQ0Y",
+    "record_sha256": "d0c66e2d1421b06321477c58001e39588ee4f7fbfc3b401c6b49cd41d737aa3c",
     "record_type": "VERDICT"
   },
   {
@@ -154,6 +141,19 @@
     "record_id": "DLR-20260525-01KSE9DDF3DR2WQKP2JADJSES4",
     "record_sha256": "2a35815650c47148a49a81cbaa29cdc9ce151d5c04e5e11079599b31126884a3",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:44:01Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 11,
+    "natural_id": "TRIB-20260525-01KSE9DC3SKEVAQF0Z171ACVBH",
+    "parent_hash": "32073d137131d1d8f7a225a7d1da1077481c77db393c188e1ee5f0271cf2a2ae",
+    "path": "records/verdicts/TRIB-20260525-01KSE9DC3SKEVAQF0Z171ACVBH.json",
+    "payload_hash": "b5cf814186521e5c8641d00be0fecb4be89f409afefb4c9bb5a5ba72352b232f",
+    "record_id": "DLR-20260525-01KSE9DDEMQ17X5Y60S7XCRKJV",
+    "record_sha256": "670cf17b645efda8340b52a9fd587d12a9f825868c08bc1d7c4f3893e5fbc36d",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:44:44Z",
@@ -171,19 +171,6 @@
   {
     "created_at": "2026-05-25T00:44:46Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 14,
-    "natural_id": "TRIB-20260525-01KSE9EQM801QJBJFTVK73P2JV",
-    "parent_hash": "ad6d86fd326e7ae258ae091ca3001aebe34360fc4d9904c24715fb6abfb62634",
-    "path": "records/verdicts/TRIB-20260525-01KSE9EQM801QJBJFTVK73P2JV.json",
-    "payload_hash": "9d94003b9f3805875cf3616c5258438b3b0195e589a0be035ea4b197cc4fce53",
-    "record_id": "DLR-20260525-01KSE9ES2VXSJJH0184495TMSS",
-    "record_sha256": "2954c925f658b63488bb652970389ac2e428fe8ca51d32d2799a75a06f37e5ef",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:44:46Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 15,
     "natural_id": "SJP-20260525-01KSE9ES346WRJFW7DVAVNF4EC",
@@ -193,6 +180,19 @@
     "record_id": "DLR-20260525-01KSE9ES3AQY7ENWYX9C6T8SZ0",
     "record_sha256": "467e9d7a48439afb0aa925032a2d620591bfe625e37c6928b6a7ddbaee62c88a",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:44:46Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 14,
+    "natural_id": "TRIB-20260525-01KSE9EQM801QJBJFTVK73P2JV",
+    "parent_hash": "ad6d86fd326e7ae258ae091ca3001aebe34360fc4d9904c24715fb6abfb62634",
+    "path": "records/verdicts/TRIB-20260525-01KSE9EQM801QJBJFTVK73P2JV.json",
+    "payload_hash": "9d94003b9f3805875cf3616c5258438b3b0195e589a0be035ea4b197cc4fce53",
+    "record_id": "DLR-20260525-01KSE9ES2VXSJJH0184495TMSS",
+    "record_sha256": "2954c925f658b63488bb652970389ac2e428fe8ca51d32d2799a75a06f37e5ef",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:51:35Z",
@@ -210,15 +210,15 @@
   {
     "created_at": "2026-05-25T00:51:37Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 17,
-    "natural_id": "TRIB-20260525-01KSE9V94VA344W1E0AXVJZD2R",
-    "parent_hash": "da77e91bea16068dedc7b2b1ae1091ddc189e5fa3cbb36123b24135097730750",
-    "path": "records/verdicts/TRIB-20260525-01KSE9V94VA344W1E0AXVJZD2R.json",
-    "payload_hash": "2cbd718a18d62deb20ec0ee53b74da3119bb100cd2f6d7eacd45d7fe56c3a9a9",
-    "record_id": "DLR-20260525-01KSE9VAGAMWR3RB8GCZCB0Q99",
-    "record_sha256": "d5d7f9b274a29ba95ef8d8b3053566bdec0a24488329e07685801082b43ebbdf",
-    "record_type": "VERDICT"
+    "issued_by": "DefendableRouter",
+    "ledger_seq": 19,
+    "natural_id": "DRR-20260525-01KSE9VBAMKG0E8WX8VQGGQWPQ",
+    "parent_hash": "2bd73067143b2058a9a2424eb9e1971c486e512e573dc74b75cec0b3d02db0e0",
+    "path": "records/receipts/DRR-20260525-01KSE9VBAMKG0E8WX8VQGGQWPQ.json",
+    "payload_hash": "d5359b91157d73823adf21cef0732606f388181dad7e57ca9f6218284409988f",
+    "record_id": "DLR-20260525-01KSE9VBAN49D1NCY99B5SAYMB",
+    "record_sha256": "5638a2add271b5219757f1f8527b0ea3aa95f3cadafb952d8b92194642144bf4",
+    "record_type": "RECEIPT"
   },
   {
     "created_at": "2026-05-25T00:51:37Z",
@@ -236,27 +236,14 @@
   {
     "created_at": "2026-05-25T00:51:37Z",
     "host": "smash",
-    "issued_by": "DefendableRouter",
-    "ledger_seq": 19,
-    "natural_id": "DRR-20260525-01KSE9VBAMKG0E8WX8VQGGQWPQ",
-    "parent_hash": "2bd73067143b2058a9a2424eb9e1971c486e512e573dc74b75cec0b3d02db0e0",
-    "path": "records/receipts/DRR-20260525-01KSE9VBAMKG0E8WX8VQGGQWPQ.json",
-    "payload_hash": "d5359b91157d73823adf21cef0732606f388181dad7e57ca9f6218284409988f",
-    "record_id": "DLR-20260525-01KSE9VBAN49D1NCY99B5SAYMB",
-    "record_sha256": "5638a2add271b5219757f1f8527b0ea3aa95f3cadafb952d8b92194642144bf4",
-    "record_type": "RECEIPT"
-  },
-  {
-    "created_at": "2026-05-25T00:51:39Z",
-    "host": "smash",
     "issued_by": "Tribunal",
-    "ledger_seq": 20,
-    "natural_id": "TRIB-20260525-01KSE9VBAY3ZG6B1YD7B8MAWWP",
-    "parent_hash": "5638a2add271b5219757f1f8527b0ea3aa95f3cadafb952d8b92194642144bf4",
-    "path": "records/verdicts/TRIB-20260525-01KSE9VBAY3ZG6B1YD7B8MAWWP.json",
-    "payload_hash": "c0f4da5621a25588fbf17abd19f68d6739590db7ed3acdc0f3a3bfe04911739f",
-    "record_id": "DLR-20260525-01KSE9VCK1V3FGWWSKK28BH14A",
-    "record_sha256": "6c994f531ce4ae5c7139a181aa4f296794ccc5b9a07efb3db4dcaf3e141b13fb",
+    "ledger_seq": 17,
+    "natural_id": "TRIB-20260525-01KSE9V94VA344W1E0AXVJZD2R",
+    "parent_hash": "da77e91bea16068dedc7b2b1ae1091ddc189e5fa3cbb36123b24135097730750",
+    "path": "records/verdicts/TRIB-20260525-01KSE9V94VA344W1E0AXVJZD2R.json",
+    "payload_hash": "2cbd718a18d62deb20ec0ee53b74da3119bb100cd2f6d7eacd45d7fe56c3a9a9",
+    "record_id": "DLR-20260525-01KSE9VAGAMWR3RB8GCZCB0Q99",
+    "record_sha256": "d5d7f9b274a29ba95ef8d8b3053566bdec0a24488329e07685801082b43ebbdf",
     "record_type": "VERDICT"
   },
   {
@@ -271,6 +258,19 @@
     "record_id": "DLR-20260525-01KSE9VCKFBHCGH3VG73KPP636",
     "record_sha256": "369ca1823da8dfd78d3717dc5636f19b766b75b810c2c9ed601bc65965dbf6a4",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:51:39Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 20,
+    "natural_id": "TRIB-20260525-01KSE9VBAY3ZG6B1YD7B8MAWWP",
+    "parent_hash": "5638a2add271b5219757f1f8527b0ea3aa95f3cadafb952d8b92194642144bf4",
+    "path": "records/verdicts/TRIB-20260525-01KSE9VBAY3ZG6B1YD7B8MAWWP.json",
+    "payload_hash": "c0f4da5621a25588fbf17abd19f68d6739590db7ed3acdc0f3a3bfe04911739f",
+    "record_id": "DLR-20260525-01KSE9VCK1V3FGWWSKK28BH14A",
+    "record_sha256": "6c994f531ce4ae5c7139a181aa4f296794ccc5b9a07efb3db4dcaf3e141b13fb",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:51:40Z",
@@ -288,19 +288,6 @@
   {
     "created_at": "2026-05-25T00:51:41Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 23,
-    "natural_id": "TRIB-20260525-01KSE9VDEH8CRWMK5BR3CKD1GH",
-    "parent_hash": "6766d1a75194b80e22ba1c4a3c2b387fa3b46ac6e56c7dcc9f2e350dfb6cd64e",
-    "path": "records/verdicts/TRIB-20260525-01KSE9VDEH8CRWMK5BR3CKD1GH.json",
-    "payload_hash": "d5a8549fe99f4c3a68c4aa6b0495e34b524bba8170b547296fc661ca8573c35b",
-    "record_id": "DLR-20260525-01KSE9VEYD1MBP6MXN0D8ZXCP2",
-    "record_sha256": "81d6e428e3271b018aebfa170697c8d8c7f24ef36933cd9f1ca97c9990198228",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:51:41Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 24,
     "natural_id": "SJP-20260525-01KSE9VEYP5T0XHS2953XKEQSX",
@@ -310,6 +297,19 @@
     "record_id": "DLR-20260525-01KSE9VEYVVFRX1PFSX373CDHW",
     "record_sha256": "11db8b774201f7a9dd8c60b800b9690e957d3dd46f4eb740d0836d79ad5018bc",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:51:41Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 23,
+    "natural_id": "TRIB-20260525-01KSE9VDEH8CRWMK5BR3CKD1GH",
+    "parent_hash": "6766d1a75194b80e22ba1c4a3c2b387fa3b46ac6e56c7dcc9f2e350dfb6cd64e",
+    "path": "records/verdicts/TRIB-20260525-01KSE9VDEH8CRWMK5BR3CKD1GH.json",
+    "payload_hash": "d5a8549fe99f4c3a68c4aa6b0495e34b524bba8170b547296fc661ca8573c35b",
+    "record_id": "DLR-20260525-01KSE9VEYD1MBP6MXN0D8ZXCP2",
+    "record_sha256": "81d6e428e3271b018aebfa170697c8d8c7f24ef36933cd9f1ca97c9990198228",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:51:42Z",
@@ -327,19 +327,6 @@
   {
     "created_at": "2026-05-25T00:51:43Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 26,
-    "natural_id": "TRIB-20260525-01KSE9VFSJWJHH8CZTV98NCZG7",
-    "parent_hash": "ab6dec9c96b52e4fb48eab89ce223724b6a6326e3aed436d28b9c4189feb9afd",
-    "path": "records/verdicts/TRIB-20260525-01KSE9VFSJWJHH8CZTV98NCZG7.json",
-    "payload_hash": "f15d97d131dfa0c139f95de6d7fec8c8ac94a5a80328c6c37e85ae515a8a58f0",
-    "record_id": "DLR-20260525-01KSE9VH4YG8H84YPSGD32TK1P",
-    "record_sha256": "04902950d901b4b81d998a46c2773443b885c6ee0fe5afba6ac392e6029d61e6",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:51:43Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 27,
     "natural_id": "SJP-20260525-01KSE9VH5726TP5MNNXTY2J2MN",
@@ -349,6 +336,19 @@
     "record_id": "DLR-20260525-01KSE9VH5CXY9SRJABV67YCSNG",
     "record_sha256": "18433ea2fe354f51edc12123f44c53bf0d40cc81d806c03615c43eae680ad227",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:51:43Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 26,
+    "natural_id": "TRIB-20260525-01KSE9VFSJWJHH8CZTV98NCZG7",
+    "parent_hash": "ab6dec9c96b52e4fb48eab89ce223724b6a6326e3aed436d28b9c4189feb9afd",
+    "path": "records/verdicts/TRIB-20260525-01KSE9VFSJWJHH8CZTV98NCZG7.json",
+    "payload_hash": "f15d97d131dfa0c139f95de6d7fec8c8ac94a5a80328c6c37e85ae515a8a58f0",
+    "record_id": "DLR-20260525-01KSE9VH4YG8H84YPSGD32TK1P",
+    "record_sha256": "04902950d901b4b81d998a46c2773443b885c6ee0fe5afba6ac392e6029d61e6",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:51:44Z",
@@ -366,19 +366,6 @@
   {
     "created_at": "2026-05-25T00:51:46Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 29,
-    "natural_id": "TRIB-20260525-01KSE9VHZX7VY36EX4C1TT0PNW",
-    "parent_hash": "fc14e276c8469deee70ef9e151489f23172db5d3b85bd6c1ee43327566b7e856",
-    "path": "records/verdicts/TRIB-20260525-01KSE9VHZX7VY36EX4C1TT0PNW.json",
-    "payload_hash": "1dea22bc7984635f582a040a31bb6677339a67c1b6182016e34688e88ae5c7d5",
-    "record_id": "DLR-20260525-01KSE9VK82WY159XAM9EK524VN",
-    "record_sha256": "129f14c1a6783de74bd6a413d9500db4763738eea6233a44a647686d69a27443",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:51:46Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 30,
     "natural_id": "SJP-20260525-01KSE9VK8AZM4NG0S6DB72QZBX",
@@ -388,6 +375,19 @@
     "record_id": "DLR-20260525-01KSE9VK8GDDNT9Z5BRYR27VFS",
     "record_sha256": "4275493cc38bb587637799cae0aa1449274377ff77d87d4d229c28ad63da41d7",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:51:46Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 29,
+    "natural_id": "TRIB-20260525-01KSE9VHZX7VY36EX4C1TT0PNW",
+    "parent_hash": "fc14e276c8469deee70ef9e151489f23172db5d3b85bd6c1ee43327566b7e856",
+    "path": "records/verdicts/TRIB-20260525-01KSE9VHZX7VY36EX4C1TT0PNW.json",
+    "payload_hash": "1dea22bc7984635f582a040a31bb6677339a67c1b6182016e34688e88ae5c7d5",
+    "record_id": "DLR-20260525-01KSE9VK82WY159XAM9EK524VN",
+    "record_sha256": "129f14c1a6783de74bd6a413d9500db4763738eea6233a44a647686d69a27443",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:54:04Z",
@@ -405,19 +405,6 @@
   {
     "created_at": "2026-05-25T00:54:05Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 32,
-    "natural_id": "TRIB-20260525-01KSE9ZT1NJBM4N31G0V04K51C",
-    "parent_hash": "e4d7d869ac74f78cc7288697dc6c80c3fb3dd258c0cbb3e95f9ac038c950f7ae",
-    "path": "records/verdicts/TRIB-20260525-01KSE9ZT1NJBM4N31G0V04K51C.json",
-    "payload_hash": "1553955e4d20947ff1abb1ba4702c0e18742f28d3205fd4928f9b02b1b4b1439",
-    "record_id": "DLR-20260525-01KSE9ZVCBBY68T89KS3QS90VT",
-    "record_sha256": "326d60f7532c7bcb592ea8983dcafdedb9cf34180db7d82882b1c0b8eeae7bd4",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:54:05Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 33,
     "natural_id": "SJP-20260525-01KSE9ZVCKV1AXRXEYN9VW1T6E",
@@ -427,6 +414,19 @@
     "record_id": "DLR-20260525-01KSE9ZVCSK2W067ZKHQ8DRJ58",
     "record_sha256": "deb19117625e0bcf7c6da0b115cf3b38f0875e76f770b864e7358d30d8e4b133",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:54:05Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 32,
+    "natural_id": "TRIB-20260525-01KSE9ZT1NJBM4N31G0V04K51C",
+    "parent_hash": "e4d7d869ac74f78cc7288697dc6c80c3fb3dd258c0cbb3e95f9ac038c950f7ae",
+    "path": "records/verdicts/TRIB-20260525-01KSE9ZT1NJBM4N31G0V04K51C.json",
+    "payload_hash": "1553955e4d20947ff1abb1ba4702c0e18742f28d3205fd4928f9b02b1b4b1439",
+    "record_id": "DLR-20260525-01KSE9ZVCBBY68T89KS3QS90VT",
+    "record_sha256": "326d60f7532c7bcb592ea8983dcafdedb9cf34180db7d82882b1c0b8eeae7bd4",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:54:06Z",
@@ -444,19 +444,6 @@
   {
     "created_at": "2026-05-25T00:54:07Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 35,
-    "natural_id": "TRIB-20260525-01KSE9ZW7BSNY2YAVYX8B5ZDPZ",
-    "parent_hash": "899cd5534d62a30bd4e94a4c6a98f1b3992be1c07465ebc83d57cedf35b7a59f",
-    "path": "records/verdicts/TRIB-20260525-01KSE9ZW7BSNY2YAVYX8B5ZDPZ.json",
-    "payload_hash": "398f74728a72a33ad1ebb0673704edc645f22acf1e5eca06b5d39bce30920377",
-    "record_id": "DLR-20260525-01KSE9ZXJEYS2XNGS05XCE5GVW",
-    "record_sha256": "4c99e17e7e1f47088024145123fdf504005ef4a2e8d2ce9119bd91f28477121a",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:54:07Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 36,
     "natural_id": "SJP-20260525-01KSE9ZXJRTZ4VM513B3DQ24NQ",
@@ -466,6 +453,19 @@
     "record_id": "DLR-20260525-01KSE9ZXJXDDW2J3PSN07NTK8Q",
     "record_sha256": "837719376bff6c765930564990d68c59aad6d90125e098e6767860782ef183dc",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:54:07Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 35,
+    "natural_id": "TRIB-20260525-01KSE9ZW7BSNY2YAVYX8B5ZDPZ",
+    "parent_hash": "899cd5534d62a30bd4e94a4c6a98f1b3992be1c07465ebc83d57cedf35b7a59f",
+    "path": "records/verdicts/TRIB-20260525-01KSE9ZW7BSNY2YAVYX8B5ZDPZ.json",
+    "payload_hash": "398f74728a72a33ad1ebb0673704edc645f22acf1e5eca06b5d39bce30920377",
+    "record_id": "DLR-20260525-01KSE9ZXJEYS2XNGS05XCE5GVW",
+    "record_sha256": "4c99e17e7e1f47088024145123fdf504005ef4a2e8d2ce9119bd91f28477121a",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:54:08Z",
@@ -483,19 +483,6 @@
   {
     "created_at": "2026-05-25T00:54:09Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 38,
-    "natural_id": "TRIB-20260525-01KSE9ZYDCYEY5EWW4W8GBDCCT",
-    "parent_hash": "75d4ebb652a605a7b7e09f93374d77c39bf6909b7b4782d368b82fb4e0b4892e",
-    "path": "records/verdicts/TRIB-20260525-01KSE9ZYDCYEY5EWW4W8GBDCCT.json",
-    "payload_hash": "08761d0d88a64d08e9acb04998f499a5e966e68f41aff096e7e3ac2331fe85da",
-    "record_id": "DLR-20260525-01KSE9ZZQV8TJHVV4FWJCYPX9V",
-    "record_sha256": "c5f03084228f513f642b294d861e18a7117a64a369114df71d56feda9b6f437a",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T00:54:09Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 39,
     "natural_id": "SJP-20260525-01KSE9ZZR42MESCC011QK4PCRV",
@@ -505,6 +492,19 @@
     "record_id": "DLR-20260525-01KSE9ZZR9AJMNC4MVMXSQJ4D6",
     "record_sha256": "e44aa5dd7c56579bd1e481c70ba7739e757a3c24a240e842f05f4b84947b83fb",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:54:09Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 38,
+    "natural_id": "TRIB-20260525-01KSE9ZYDCYEY5EWW4W8GBDCCT",
+    "parent_hash": "75d4ebb652a605a7b7e09f93374d77c39bf6909b7b4782d368b82fb4e0b4892e",
+    "path": "records/verdicts/TRIB-20260525-01KSE9ZYDCYEY5EWW4W8GBDCCT.json",
+    "payload_hash": "08761d0d88a64d08e9acb04998f499a5e966e68f41aff096e7e3ac2331fe85da",
+    "record_id": "DLR-20260525-01KSE9ZZQV8TJHVV4FWJCYPX9V",
+    "record_sha256": "c5f03084228f513f642b294d861e18a7117a64a369114df71d56feda9b6f437a",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T00:54:10Z",
@@ -522,15 +522,15 @@
   {
     "created_at": "2026-05-25T00:54:12Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 41,
-    "natural_id": "TRIB-20260525-01KSEA00JKX2NY1E91N2VNSPJF",
-    "parent_hash": "99f05a96efc1e1c0e4a6f9926b0a42afaf9de0d4cbcdce1f534026a2647f57fc",
-    "path": "records/verdicts/TRIB-20260525-01KSEA00JKX2NY1E91N2VNSPJF.json",
-    "payload_hash": "45c9f6f5214246a1cfff0a1fd582812dbc99153edc3feaf7d1ff778f1cea806b",
-    "record_id": "DLR-20260525-01KSEA01V0XPTWTA6HGEH8WDD1",
-    "record_sha256": "51eafc900106a713899bfab87bc292a494b9d81ea424b7c5d28e85c590e15727",
-    "record_type": "VERDICT"
+    "issued_by": "DefendableRouter",
+    "ledger_seq": 43,
+    "natural_id": "DRR-20260525-01KSEA02P52CBFJ5XWDREDY360",
+    "parent_hash": "28c12c0df67be7217f2bfc4093aa50e2478e43f966e4b4cbfb79a37c2cd66741",
+    "path": "records/receipts/DRR-20260525-01KSEA02P52CBFJ5XWDREDY360.json",
+    "payload_hash": "f91249d794f016793e2d445498dafc4ee5719230d927d57385de30f2c596aaaa",
+    "record_id": "DLR-20260525-01KSEA02P6STCW77VZBXW1SVVG",
+    "record_sha256": "95c41f15f5eabd382d5095ffb81b0331e8b1fa7090c6b88c37f310f35240618c",
+    "record_type": "RECEIPT"
   },
   {
     "created_at": "2026-05-25T00:54:12Z",
@@ -548,27 +548,14 @@
   {
     "created_at": "2026-05-25T00:54:12Z",
     "host": "smash",
-    "issued_by": "DefendableRouter",
-    "ledger_seq": 43,
-    "natural_id": "DRR-20260525-01KSEA02P52CBFJ5XWDREDY360",
-    "parent_hash": "28c12c0df67be7217f2bfc4093aa50e2478e43f966e4b4cbfb79a37c2cd66741",
-    "path": "records/receipts/DRR-20260525-01KSEA02P52CBFJ5XWDREDY360.json",
-    "payload_hash": "f91249d794f016793e2d445498dafc4ee5719230d927d57385de30f2c596aaaa",
-    "record_id": "DLR-20260525-01KSEA02P6STCW77VZBXW1SVVG",
-    "record_sha256": "95c41f15f5eabd382d5095ffb81b0331e8b1fa7090c6b88c37f310f35240618c",
-    "record_type": "RECEIPT"
-  },
-  {
-    "created_at": "2026-05-25T00:54:14Z",
-    "host": "smash",
     "issued_by": "Tribunal",
-    "ledger_seq": 44,
-    "natural_id": "TRIB-20260525-01KSEA02PFWSJ253S8KRCNZ4W3",
-    "parent_hash": "95c41f15f5eabd382d5095ffb81b0331e8b1fa7090c6b88c37f310f35240618c",
-    "path": "records/verdicts/TRIB-20260525-01KSEA02PFWSJ253S8KRCNZ4W3.json",
-    "payload_hash": "867b8836ddf957b68f6010456e1cc4b61eda77845f41a67170965e74d6fd036a",
-    "record_id": "DLR-20260525-01KSEA042GK9JF1KCF282PGQXC",
-    "record_sha256": "3e73d7de977f03c9ed3c69bfd4a7b85a9e2b0f7f58fd097798ee79b126fb24fd",
+    "ledger_seq": 41,
+    "natural_id": "TRIB-20260525-01KSEA00JKX2NY1E91N2VNSPJF",
+    "parent_hash": "99f05a96efc1e1c0e4a6f9926b0a42afaf9de0d4cbcdce1f534026a2647f57fc",
+    "path": "records/verdicts/TRIB-20260525-01KSEA00JKX2NY1E91N2VNSPJF.json",
+    "payload_hash": "45c9f6f5214246a1cfff0a1fd582812dbc99153edc3feaf7d1ff778f1cea806b",
+    "record_id": "DLR-20260525-01KSEA01V0XPTWTA6HGEH8WDD1",
+    "record_sha256": "51eafc900106a713899bfab87bc292a494b9d81ea424b7c5d28e85c590e15727",
     "record_type": "VERDICT"
   },
   {
@@ -583,6 +570,19 @@
     "record_id": "DLR-20260525-01KSEA042Y63VDXABV60PWA9Y0",
     "record_sha256": "151e6a92f0868067e415c35b6bc6d21d1639d9ee70f97c102bd61b94de5005d5",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T00:54:14Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 44,
+    "natural_id": "TRIB-20260525-01KSEA02PFWSJ253S8KRCNZ4W3",
+    "parent_hash": "95c41f15f5eabd382d5095ffb81b0331e8b1fa7090c6b88c37f310f35240618c",
+    "path": "records/verdicts/TRIB-20260525-01KSEA02PFWSJ253S8KRCNZ4W3.json",
+    "payload_hash": "867b8836ddf957b68f6010456e1cc4b61eda77845f41a67170965e74d6fd036a",
+    "record_id": "DLR-20260525-01KSEA042GK9JF1KCF282PGQXC",
+    "record_sha256": "3e73d7de977f03c9ed3c69bfd4a7b85a9e2b0f7f58fd097798ee79b126fb24fd",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T01:20:22Z",
@@ -600,19 +600,6 @@
   {
     "created_at": "2026-05-25T01:20:23Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 47,
-    "natural_id": "TRIB-20260525-01KSEBFZ0CZQK41YHE8N0T2TR4",
-    "parent_hash": "e9ee190ca5f57f868915bb9c09d7665e16d89edbe4beb516140ddf361ea1ad40",
-    "path": "records/verdicts/TRIB-20260525-01KSEBFZ0CZQK41YHE8N0T2TR4.json",
-    "payload_hash": "c90c4528c2ab1ceee0d57589b9cd0c35faecadfbe3b6ff9ee306dc2fedb62d6d",
-    "record_id": "DLR-20260525-01KSEBG0B2SCJPNJ450MZTB168",
-    "record_sha256": "166a46e87df10cac2e5cd2abaef2f87d75e7e5846bc751a8cceeeef076a45eff",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T01:20:23Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 48,
     "natural_id": "SJP-20260525-01KSEBG0BBRBM0SBF5QR17Y3DG",
@@ -622,6 +609,19 @@
     "record_id": "DLR-20260525-01KSEBG0BGN1F617M2A4STAGB9",
     "record_sha256": "3be723f2a9c814b4134c20dd187e21009b11a0fa813780f9a14b47208bafc978",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T01:20:23Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 47,
+    "natural_id": "TRIB-20260525-01KSEBFZ0CZQK41YHE8N0T2TR4",
+    "parent_hash": "e9ee190ca5f57f868915bb9c09d7665e16d89edbe4beb516140ddf361ea1ad40",
+    "path": "records/verdicts/TRIB-20260525-01KSEBFZ0CZQK41YHE8N0T2TR4.json",
+    "payload_hash": "c90c4528c2ab1ceee0d57589b9cd0c35faecadfbe3b6ff9ee306dc2fedb62d6d",
+    "record_id": "DLR-20260525-01KSEBG0B2SCJPNJ450MZTB168",
+    "record_sha256": "166a46e87df10cac2e5cd2abaef2f87d75e7e5846bc751a8cceeeef076a45eff",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T01:20:54Z",
@@ -652,19 +652,6 @@
   {
     "created_at": "2026-05-25T01:21:37Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 51,
-    "natural_id": "TRIB-20260525-01KSEBJ7CWZ0SEH4GGVX1BM2SB",
-    "parent_hash": "fc4b845235dd4b415df29f81b313a2670981cec5b185c1d8b3ef04358a9dc770",
-    "path": "records/verdicts/TRIB-20260525-01KSEBJ7CWZ0SEH4GGVX1BM2SB.json",
-    "payload_hash": "819368fce7ed051c7db72560a520627a18553ac4143ba6f99d901643e2534e0a",
-    "record_id": "DLR-20260525-01KSEBJ8XBDETYF30S8S261YRE",
-    "record_sha256": "3ac4b1d61274e406193f230dd55ebd314cab60a72bc7858692738f966ea04695",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T01:21:37Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 52,
     "natural_id": "SJP-20260525-01KSEBJ8XKWX71FQYX3NJF0GJD",
@@ -674,6 +661,19 @@
     "record_id": "DLR-20260525-01KSEBJ8XS9CPD9J6F5A5VAG9V",
     "record_sha256": "adb0f481f7cad79494c9abe5839f365b18668c066a703d66f97c74d8adc150af",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T01:21:37Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 51,
+    "natural_id": "TRIB-20260525-01KSEBJ7CWZ0SEH4GGVX1BM2SB",
+    "parent_hash": "fc4b845235dd4b415df29f81b313a2670981cec5b185c1d8b3ef04358a9dc770",
+    "path": "records/verdicts/TRIB-20260525-01KSEBJ7CWZ0SEH4GGVX1BM2SB.json",
+    "payload_hash": "819368fce7ed051c7db72560a520627a18553ac4143ba6f99d901643e2534e0a",
+    "record_id": "DLR-20260525-01KSEBJ8XBDETYF30S8S261YRE",
+    "record_sha256": "3ac4b1d61274e406193f230dd55ebd314cab60a72bc7858692738f966ea04695",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T01:22:09Z",
@@ -704,19 +704,6 @@
   {
     "created_at": "2026-05-25T01:22:11Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 55,
-    "natural_id": "TRIB-20260525-01KSEBK8YSAGYDBWDA0JJMD07K",
-    "parent_hash": "86b984fc18adce3af2a223830c6a13138bd18d8f4c2564e31b4fdec1e33f75ad",
-    "path": "records/verdicts/TRIB-20260525-01KSEBK8YSAGYDBWDA0JJMD07K.json",
-    "payload_hash": "83f7132065da9f495e36f6edd85a401536f815d86ecdda1f4a913f49744555bf",
-    "record_id": "DLR-20260525-01KSEBKAA6KJV7DDS79335BM4W",
-    "record_sha256": "703d9fd1d8b922d976bd8fa8f3a143cfd927dd2b3231a24eb5a454aaa6089c36",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T01:22:11Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 56,
     "natural_id": "SJP-20260525-01KSEBKAAF24KHPVNR0DXA13Y4",
@@ -726,6 +713,19 @@
     "record_id": "DLR-20260525-01KSEBKAANE2VD84NZ70X6R62X",
     "record_sha256": "188528fb501ab8211cf2b3ad15617f07d1115d5c02a64583c8a178f27c0d175d",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T01:22:11Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 55,
+    "natural_id": "TRIB-20260525-01KSEBK8YSAGYDBWDA0JJMD07K",
+    "parent_hash": "86b984fc18adce3af2a223830c6a13138bd18d8f4c2564e31b4fdec1e33f75ad",
+    "path": "records/verdicts/TRIB-20260525-01KSEBK8YSAGYDBWDA0JJMD07K.json",
+    "payload_hash": "83f7132065da9f495e36f6edd85a401536f815d86ecdda1f4a913f49744555bf",
+    "record_id": "DLR-20260525-01KSEBKAA6KJV7DDS79335BM4W",
+    "record_sha256": "703d9fd1d8b922d976bd8fa8f3a143cfd927dd2b3231a24eb5a454aaa6089c36",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T01:22:43Z",
@@ -756,19 +756,6 @@
   {
     "created_at": "2026-05-25T01:22:45Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 59,
-    "natural_id": "TRIB-20260525-01KSEBM9QD7J6183GH60TRNKXF",
-    "parent_hash": "efc3627ca06c9b5ba6b6c800bf78a54a4dd8a7bc3980cd03d98c8bf13c726afb",
-    "path": "records/verdicts/TRIB-20260525-01KSEBM9QD7J6183GH60TRNKXF.json",
-    "payload_hash": "7a1b2d1839ba27c644a945341f8eeeb18386515033b928295e2410de79749d9d",
-    "record_id": "DLR-20260525-01KSEBMB4CPMVYVYSDY0XERJHA",
-    "record_sha256": "fe51a60a0b34a52d7afc4b109585db08c97214deefa13c7fcc35fae64e3c320d",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T01:22:45Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 60,
     "natural_id": "SJP-20260525-01KSEBMB4Q7QJXKTXSYVFCQHDZ",
@@ -778,6 +765,19 @@
     "record_id": "DLR-20260525-01KSEBMB4YDCA7T80N5J38GQRS",
     "record_sha256": "e1d8484c3fdfdc8d4bc19ae14598d50f5d7ee6a664f194c052674383b8fbdece",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T01:22:45Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 59,
+    "natural_id": "TRIB-20260525-01KSEBM9QD7J6183GH60TRNKXF",
+    "parent_hash": "efc3627ca06c9b5ba6b6c800bf78a54a4dd8a7bc3980cd03d98c8bf13c726afb",
+    "path": "records/verdicts/TRIB-20260525-01KSEBM9QD7J6183GH60TRNKXF.json",
+    "payload_hash": "7a1b2d1839ba27c644a945341f8eeeb18386515033b928295e2410de79749d9d",
+    "record_id": "DLR-20260525-01KSEBMB4CPMVYVYSDY0XERJHA",
+    "record_sha256": "fe51a60a0b34a52d7afc4b109585db08c97214deefa13c7fcc35fae64e3c320d",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T01:23:16Z",
@@ -808,19 +808,6 @@
   {
     "created_at": "2026-05-25T01:35:01Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 63,
-    "natural_id": "TRIB-20260525-01KSECAR10Q6H1Z5ZDQM3YAS2H",
-    "parent_hash": "2d60dd788f2b680c9b8498f90ebed2a9ab4094344fdec7d5075f97b689211fb8",
-    "path": "records/verdicts/TRIB-20260525-01KSECAR10Q6H1Z5ZDQM3YAS2H.json",
-    "payload_hash": "1adc7855f83d1db9ddf80d5a626978764a2454b23816bae94a08334f2838c441",
-    "record_id": "DLR-20260525-01KSECASDTWBJEF5AJF35A3P2H",
-    "record_sha256": "05c5adde29091b869609b98e4e7df5d2d4af7d2d877843ee9340c41ab972ba48",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T01:35:01Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 64,
     "natural_id": "SJP-20260525-01KSECASE30APEZTPE6JB7V16V",
@@ -830,6 +817,19 @@
     "record_id": "DLR-20260525-01KSECASE8X2XWZTW8B1WPWD59",
     "record_sha256": "1e32de06f1a6689281fb12029a1bbd1b0a4079035eb63061049ecc85b6b5b6f6",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T01:35:01Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 63,
+    "natural_id": "TRIB-20260525-01KSECAR10Q6H1Z5ZDQM3YAS2H",
+    "parent_hash": "2d60dd788f2b680c9b8498f90ebed2a9ab4094344fdec7d5075f97b689211fb8",
+    "path": "records/verdicts/TRIB-20260525-01KSECAR10Q6H1Z5ZDQM3YAS2H.json",
+    "payload_hash": "1adc7855f83d1db9ddf80d5a626978764a2454b23816bae94a08334f2838c441",
+    "record_id": "DLR-20260525-01KSECASDTWBJEF5AJF35A3P2H",
+    "record_sha256": "05c5adde29091b869609b98e4e7df5d2d4af7d2d877843ee9340c41ab972ba48",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T01:35:33Z",
@@ -860,19 +860,6 @@
   {
     "created_at": "2026-05-25T01:35:35Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 67,
-    "natural_id": "TRIB-20260525-01KSECBT62899T6NY117JCYBSQ",
-    "parent_hash": "24fc442cf4f62e7970842487b4253ecb1d07fcf4371fc9f539fb805b05b4a4df",
-    "path": "records/verdicts/TRIB-20260525-01KSECBT62899T6NY117JCYBSQ.json",
-    "payload_hash": "067141d34e03326f1ce935c1dbd9d6450e73a2a8072537705838522e807fc9d2",
-    "record_id": "DLR-20260525-01KSECBVGG7FCCP1GWXJVGAHEV",
-    "record_sha256": "b49b4827826194b94d976d1ac9b1fee90f19157c09eaafd78e6145cf53f14ecd",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T01:35:35Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 68,
     "natural_id": "SJP-20260525-01KSECBVGVQRB75V5ZV77R37G4",
@@ -882,6 +869,19 @@
     "record_id": "DLR-20260525-01KSECBVH224YW5MF7TEB12RZP",
     "record_sha256": "b8620b120e52901a323f07ac5b69a9e5886d3d5effbc589b55b326dfa3794aa4",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T01:35:35Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 67,
+    "natural_id": "TRIB-20260525-01KSECBT62899T6NY117JCYBSQ",
+    "parent_hash": "24fc442cf4f62e7970842487b4253ecb1d07fcf4371fc9f539fb805b05b4a4df",
+    "path": "records/verdicts/TRIB-20260525-01KSECBT62899T6NY117JCYBSQ.json",
+    "payload_hash": "067141d34e03326f1ce935c1dbd9d6450e73a2a8072537705838522e807fc9d2",
+    "record_id": "DLR-20260525-01KSECBVGG7FCCP1GWXJVGAHEV",
+    "record_sha256": "b49b4827826194b94d976d1ac9b1fee90f19157c09eaafd78e6145cf53f14ecd",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T01:36:08Z",
@@ -912,19 +912,6 @@
   {
     "created_at": "2026-05-25T01:36:10Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 71,
-    "natural_id": "TRIB-20260525-01KSECCVV4EZKM3855WV9W0T7J",
-    "parent_hash": "a0aefe9d0d116366e883216bde3617a5f3d2d926f56929481e04bffbc88395e1",
-    "path": "records/verdicts/TRIB-20260525-01KSECCVV4EZKM3855WV9W0T7J.json",
-    "payload_hash": "0b2e6c876654714977d008974ad31c5fdf90253971e53921d38be24243c7e37d",
-    "record_id": "DLR-20260525-01KSECCX50Y5M2PG3K1FKRB12Q",
-    "record_sha256": "bca5ccc4a242f8909146360c4ed63f7b5641edb54c3e93adc77ce3a2e007ffe0",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T01:36:10Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 72,
     "natural_id": "SJP-20260525-01KSECCX5B5Z1KJ0AQPWBXZ299",
@@ -934,6 +921,19 @@
     "record_id": "DLR-20260525-01KSECCX5J6SP9XNN6V498DAER",
     "record_sha256": "2c553ced40b0cff07d41a8e5438af2e790c8744259e29dac5fa8e3ff2edf467b",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T01:36:10Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 71,
+    "natural_id": "TRIB-20260525-01KSECCVV4EZKM3855WV9W0T7J",
+    "parent_hash": "a0aefe9d0d116366e883216bde3617a5f3d2d926f56929481e04bffbc88395e1",
+    "path": "records/verdicts/TRIB-20260525-01KSECCVV4EZKM3855WV9W0T7J.json",
+    "payload_hash": "0b2e6c876654714977d008974ad31c5fdf90253971e53921d38be24243c7e37d",
+    "record_id": "DLR-20260525-01KSECCX50Y5M2PG3K1FKRB12Q",
+    "record_sha256": "bca5ccc4a242f8909146360c4ed63f7b5641edb54c3e93adc77ce3a2e007ffe0",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T01:36:41Z",
@@ -964,19 +964,6 @@
   {
     "created_at": "2026-05-25T02:10:28Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 75,
-    "natural_id": "TRIB-20260525-01KSEEBNDW2CJH415P6GC01RFX",
-    "parent_hash": "18ef0a8d1250d41de2e9ae687f31abd9ab80a5a97d526044f53fe7e8b7181de9",
-    "path": "records/verdicts/TRIB-20260525-01KSEEBNDW2CJH415P6GC01RFX.json",
-    "payload_hash": "0a72fd569f031627be269e3a6ac4e028ea8c4312d300b19d841b013996ec7247",
-    "record_id": "DLR-20260525-01KSEEBPWEBTQ4C1XKPT4QJWX3",
-    "record_sha256": "3ffc0f19ab4cc7e03e0f5632bd80e70090391f3e147f26dbbb8d9cd12f43189f",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T02:10:28Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 76,
     "natural_id": "SJP-20260525-01KSEEBPWRYPFYQMGQTYSAY42V",
@@ -986,6 +973,19 @@
     "record_id": "DLR-20260525-01KSEEBPX017E8P1VTKBRW6WYR",
     "record_sha256": "e968405da6fe85e8f0f0f8d67554b3918cbf1cbab43b4e34cd18ae0cd4117c33",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T02:10:28Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 75,
+    "natural_id": "TRIB-20260525-01KSEEBNDW2CJH415P6GC01RFX",
+    "parent_hash": "18ef0a8d1250d41de2e9ae687f31abd9ab80a5a97d526044f53fe7e8b7181de9",
+    "path": "records/verdicts/TRIB-20260525-01KSEEBNDW2CJH415P6GC01RFX.json",
+    "payload_hash": "0a72fd569f031627be269e3a6ac4e028ea8c4312d300b19d841b013996ec7247",
+    "record_id": "DLR-20260525-01KSEEBPWEBTQ4C1XKPT4QJWX3",
+    "record_sha256": "3ffc0f19ab4cc7e03e0f5632bd80e70090391f3e147f26dbbb8d9cd12f43189f",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T02:10:59Z",
@@ -1016,19 +1016,6 @@
   {
     "created_at": "2026-05-25T02:11:01Z",
     "host": "smash",
-    "issued_by": "Tribunal",
-    "ledger_seq": 79,
-    "natural_id": "TRIB-20260525-01KSEECP8MMMXW55MQMTRQF0GK",
-    "parent_hash": "b97a01e0d051c6c857d4fc5fdc445edf1726050242b4cb16e9cd864d8537ad59",
-    "path": "records/verdicts/TRIB-20260525-01KSEECP8MMMXW55MQMTRQF0GK.json",
-    "payload_hash": "0cd2072acf2f98fe3e074600fefccd65dedc7e78ffde8a46280ff0c5c61ff0f2",
-    "record_id": "DLR-20260525-01KSEECQN0Q3GRECKQNK620RSB",
-    "record_sha256": "0fbb3dd087b25ffebb4876043666f5109180c56b3f70a70e97f19f937bab639a",
-    "record_type": "VERDICT"
-  },
-  {
-    "created_at": "2026-05-25T02:11:01Z",
-    "host": "smash",
     "issued_by": "SwarmJelly",
     "ledger_seq": 80,
     "natural_id": "SJP-20260525-01KSEECQN7B637P2V502AN4FE8",
@@ -1038,6 +1025,19 @@
     "record_id": "DLR-20260525-01KSEECQNE2XQE3M5G861A1G3Z",
     "record_sha256": "665edc8deea9d7b7fec96ec957c03f7a5fa9a7ef0499945eabe9a0e5edbb05b1",
     "record_type": "PAIR"
+  },
+  {
+    "created_at": "2026-05-25T02:11:01Z",
+    "host": "smash",
+    "issued_by": "Tribunal",
+    "ledger_seq": 79,
+    "natural_id": "TRIB-20260525-01KSEECP8MMMXW55MQMTRQF0GK",
+    "parent_hash": "b97a01e0d051c6c857d4fc5fdc445edf1726050242b4cb16e9cd864d8537ad59",
+    "path": "records/verdicts/TRIB-20260525-01KSEECP8MMMXW55MQMTRQF0GK.json",
+    "payload_hash": "0cd2072acf2f98fe3e074600fefccd65dedc7e78ffde8a46280ff0c5c61ff0f2",
+    "record_id": "DLR-20260525-01KSEECQN0Q3GRECKQNK620RSB",
+    "record_sha256": "0fbb3dd087b25ffebb4876043666f5109180c56b3f70a70e97f19f937bab639a",
+    "record_type": "VERDICT"
   },
   {
     "created_at": "2026-05-25T02:11:33Z",
@@ -1051,5 +1051,15 @@
     "record_id": "DLR-20260525-01KSEEDP1VM8G3D2JZJ5STX01F",
     "record_sha256": "973a0cf2c53bf4023b132878457540e5b9194eba739f0fb11efa58af4354d850",
     "record_type": "AUDIT"
+  },
+  {
+    "created_at": "2026-05-25T16:12:18Z",
+    "deed_reference": "REG-SAM-20260525-CABALLERZ",
+    "deed_version": 1,
+    "issued_by": "Operator",
+    "natural_id": "REG-SAM-20260525-CABALLERZ",
+    "path": "records/federal-registration/REG-SAM-20260525-CABALLERZ.json",
+    "record_sha256": "9373eaa341707ffcdd9003311ed11faea9a8e4805fe37a96b1f8057f05c0def7",
+    "record_type": "REG-SAM"
   }
 ]
