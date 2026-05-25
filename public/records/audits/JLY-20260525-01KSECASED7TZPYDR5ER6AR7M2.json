@@ -1,0 +1,18 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSECAR0PG49SYD8P5HGPYZ2E",
+  "audit_id": "JLY-20260525-01KSECASED7TZPYDR5ER6AR7M2",
+  "audit_sha256": "8ddb882165e9624d5239ca7223ab4ec3436b2d69c201e8def87c2119ca235f2c",
+  "audit_type": "JELLY_AUDIT",
+  "audit_verdict": null,
+  "audited_by": "swarmjelly-4b",
+  "created_at": "2026-05-25T01:35:01Z",
+  "flagged_issues": [],
+  "notes": "",
+  "raw_response": "{\n  \"audit_verdict\": \"revise\",\n  \"scores\": {\n    \"schema_discipline\": 5,\n    \"root_cause_grounding\": 3,\n    \"repair_safety\": 5,\n    \"dangerous_action_awareness\": 5,\n    \"verification_rigor\": 3\n  },\n  \"flagged_issues\": [\n    \"Curator claimed assignment success but failed to",
+  "receipt_id": "DRR-20260525-01KSECAR0P1BYQHZQ8MNA4PE00",
+  "rj_tier": null,
+  "scores": null,
+  "skip_reason": "audit failed: no parseable JSON in jelly response: {\n  \"audit_verdict\": \"revise\",\n  \"scores\": {\n    \"schema_discipline\": 5,\n    \"root_cause_grounding\": 3,\n    \"repair_safety\": 5,\n    \"dangerous_action_awareness\": 5,\n    \"verification_rigor\": 3\n  },\n  ",
+  "status": "FAILED",
+  "verdict_id": "TRIB-20260525-01KSECAR10Q6H1Z5ZDQM3YAS2H"
+}

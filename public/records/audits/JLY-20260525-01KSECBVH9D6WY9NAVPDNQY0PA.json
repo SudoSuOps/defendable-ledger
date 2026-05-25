@@ -1,0 +1,18 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSECBT5QG9A3VZG7943T7ZXD",
+  "audit_id": "JLY-20260525-01KSECBVH9D6WY9NAVPDNQY0PA",
+  "audit_sha256": "3ad2b0f730cdadda4b9fad769e707876e86db3cdf04ef5bca8737eaaf1179e4c",
+  "audit_type": "JELLY_AUDIT",
+  "audit_verdict": null,
+  "audited_by": "swarmjelly-4b",
+  "created_at": "2026-05-25T01:35:35Z",
+  "flagged_issues": [],
+  "notes": "",
+  "raw_response": "{\n  \"audit_verdict\": \"revise\",\n  \"scores\":",
+  "receipt_id": "DRR-20260525-01KSECBT5Q0H35CWBSNCHZNJG9",
+  "rj_tier": null,
+  "scores": null,
+  "skip_reason": "audit failed: no parseable JSON in jelly response: {\n  \"audit_verdict\": \"revise\",\n  \"scores\":",
+  "status": "FAILED",
+  "verdict_id": "TRIB-20260525-01KSECBT62899T6NY117JCYBSQ"
+}

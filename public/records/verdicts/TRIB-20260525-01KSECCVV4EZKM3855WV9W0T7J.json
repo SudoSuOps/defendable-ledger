@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSECCVTRQNGTHXC1F710556K",
+  "assignment_success": true,
+  "created_at": "2026-05-25T01:36:09Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Specific 1031 exchange with complete numbers, clear boot/gain calculations needed, high urgency, operator-grade CRE language",
+  "receipt_id": "DRR-20260525-01KSECCVTRFPBQ6FKC6A5XGHA6",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.8,
+    "format": 5.0,
+    "score": 4.7
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSECCVV4EZKM3855WV9W0T7J",
+  "verdict_sha256": "73311dc808dff00f364836e32e18d4a59025f8878b1b4d466b680473b8c0da28",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

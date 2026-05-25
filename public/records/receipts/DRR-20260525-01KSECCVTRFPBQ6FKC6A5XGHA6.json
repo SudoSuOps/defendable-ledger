@@ -1,0 +1,53 @@
+{
+  "agent_id": "canary-cre",
+  "app_id": "streetchat",
+  "assignment_id": "ASSIGN-20260525-01KSECCVTRQNGTHXC1F710556K",
+  "classification": "UNCLASSIFIED",
+  "client_id": "canary-test",
+  "conversation_id": null,
+  "created_at": "2026-05-25T01:36:09Z",
+  "ddeed": {
+    "deed_id": "DDEED-ROUTER-STUB-20260525-01KSECCVTRJQBE0TTXFWFRGH49",
+    "deed_ref": "ddeed_stub.json",
+    "deed_status": "STUB_CREATED"
+  },
+  "edge_device_id": null,
+  "hashes": {
+    "canonical_receipt_sha256": "c4c88f3462358d0d1ba28ca47b7c15bddc5f8da404c1aa283b1c3106ae52871c",
+    "receipt_sha256": "0ae82838635c57a3589ccf9f0817a8b40558a6a5e321781e4f001dd0fe5eb9f4"
+  },
+  "input": {
+    "input_bytes": 722,
+    "input_hash": "581f26166a8d0e1847b667b12588dca752f40fc97040ed8bab9aaeac9322cf1b",
+    "input_ref": "input.json"
+  },
+  "object_storage": {
+    "bucket": "streetledger",
+    "prefix": "router/canary-test/streetchat/ASSIGN-20260525-01KSECCVTRQNGTHXC1F710556K/",
+    "uri": "s3://streetledger/router/canary-test/streetchat/ASSIGN-20260525-01KSECCVTRQNGTHXC1F710556K/"
+  },
+  "output": {
+    "output_bytes": 0,
+    "output_hash": null,
+    "output_ref": null
+  },
+  "provenance": {
+    "cuda": "13.1",
+    "gpu": "RTX 5090",
+    "host": "smash",
+    "issued_by": "DefendableRouter"
+  },
+  "receipt_id": "DRR-20260525-01KSECCVTRFPBQ6FKC6A5XGHA6",
+  "receipt_type": "DEFENDABLE_ROUTER_RECEIPT",
+  "route": "cre_canary_to_tribunal",
+  "schema_version": "v0.1",
+  "source_type": "meeting",
+  "tribunal": {
+    "assignment_success": null,
+    "classification": "UNCLASSIFIED",
+    "evidence_strength": null,
+    "risk_temperature": null,
+    "validator_confidence": null,
+    "verdict_id": "TRIB-STUB-20260525-01KSECCVTRQ08E5XQ55GXMSH8Y"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSECAR0PG49SYD8P5HGPYZ2E",
+  "assignment_success": true,
+  "created_at": "2026-05-25T01:34:59Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Strong CRE operator-grade intake with specific financial data, clear assignment type, and actionable expected outputs. Minor deduction for not explicitly stating the stabilized NOI target year or methodology.",
+  "receipt_id": "DRR-20260525-01KSECAR0P1BYQHZQ8MNA4PE00",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.8,
+    "format": 5.0,
+    "score": 4.7
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSECAR10Q6H1Z5ZDQM3YAS2H",
+  "verdict_sha256": "e4bfbee76bcbbac7abb11c4de56d7356785e0df0ec371b34bf2fc8e709741de1",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

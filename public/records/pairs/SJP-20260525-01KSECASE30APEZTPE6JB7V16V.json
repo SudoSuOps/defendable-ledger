@@ -1,0 +1,26 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSECAR0PG49SYD8P5HGPYZ2E",
+  "created_at": "2026-05-25T01:35:01Z",
+  "input": "Normalize the following trailing 12-month operating statement for Interchange Park (31,000 SF).\n\nREPORTED T-12:\n  Base rent: $144,810\n  Vacancy/credit loss: $7,385\n  EGI: $137,425\n\n  Expenses:\n    Property tax: $67,580\n    Insurance: $15,190\n    CAM/maintenance: $47,430\n    Management fee: $4,947\n    Reserves: $8,060\n    Roof repair (one-time): $57,885\n    Legal/litigation (one-time): $11,200\n  Total expenses: $216,322\n\n  Reported NOI: $-78,897\n\nIdentify non-recurring items and produce a stabilized NOI.",
+  "output": {
+    "assignment_type": "tax_assessment",
+    "expected_outputs": [
+      "tax_assessment_memo",
+      "receipt",
+      "comp_set"
+    ],
+    "urgency": "high"
+  },
+  "pair_id": "SJP-20260525-01KSECASE30APEZTPE6JB7V16V",
+  "pair_sha256": "bb62943fde58a3ed545c2f08a682a7d283af1f51a053aefbc1a5809c5520e90d",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSECAR0P1BYQHZQ8MNA4PE00",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.8,
+    "format": 5.0,
+    "score": 4.7
+  },
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSECAR10Q6H1Z5ZDQM3YAS2H"
+}

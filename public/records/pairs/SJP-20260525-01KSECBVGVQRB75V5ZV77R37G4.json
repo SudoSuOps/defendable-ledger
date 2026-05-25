@@ -1,0 +1,26 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSECBT5QG9A3VZG7943T7ZXD",
+  "created_at": "2026-05-25T01:35:35Z",
+  "input": "Prepare an Investment Committee memo for the following acquisition:\n\nProperty: Industrial Plaza\nType: 117,000 SF cold storage facility\nLocation: Chandler/Gilbert, Phoenix\nYear built: 1993\nClear height: 35' clear\nDock doors: 33\n\nTenants:\n- Metro Partners: 117,000 SF, $6.98/SF, NNN, expires 2027-07-01\n\nFinancials:\n  NOI: $145,866\n  Cap rate: 6.15%\n  Value: $2,371,805\n  Debt: SBA 504 — $1,814,431\n  DSCR: 0.94x\n  Cash-on-cash: -1.54%\n\nProvide recommendation: Proceed, Caution, or Kill.",
+  "output": {
+    "assignment_type": "underwriting",
+    "expected_outputs": [
+      "underwriting_memo",
+      "receipt",
+      "comp_set"
+    ],
+    "urgency": "high"
+  },
+  "pair_id": "SJP-20260525-01KSECBVGVQRB75V5ZV77R37G4",
+  "pair_sha256": "b852f6cc34d874b9429ff5aad2effb541dccb04caef4983760e3f9022c7f8657",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSECBT5Q0H35CWBSNCHZNJG9",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.0,
+    "format": 5.0,
+    "score": 4.2
+  },
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSECBT62899T6NY117JCYBSQ"
+}

@@ -1,0 +1,26 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSECCVTRQNGTHXC1F710556K",
+  "created_at": "2026-05-25T01:36:10Z",
+  "input": "A client is selling Hyperscale Center for $535,372 and wants to take $55,912 in cash while deferring the rest via 1031 exchange.\n\n  Adjusted basis: $208,062\n  Existing mortgage: $426,691\n  Cash to be received: $55,912\n  Replacement property: $515,441\n  New mortgage: $343,548\n\nCalculate the total boot, recognized gain, deferred gain, new basis, and tax impact of the partial exchange.",
+  "output": {
+    "assignment_type": "exchange_1031",
+    "expected_outputs": [
+      "exchange_1031_memo",
+      "receipt",
+      "comp_set"
+    ],
+    "urgency": "high"
+  },
+  "pair_id": "SJP-20260525-01KSECCX5B5Z1KJ0AQPWBXZ299",
+  "pair_sha256": "d58df22828b783ea0e6f59823b615d7aa71ffa4e6ec72b40d93137439586c516",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSECCVTRFPBQ6FKC6A5XGHA6",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.8,
+    "format": 5.0,
+    "score": 4.7
+  },
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSECCVV4EZKM3855WV9W0T7J"
+}
