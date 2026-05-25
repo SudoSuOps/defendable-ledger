@@ -1,0 +1,18 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEECP88DNXX3TQY1GBT9XQ1",
+  "audit_id": "JLY-20260525-01KSEECQNNWHKNEZTC8020R71V",
+  "audit_sha256": "a403b2d4819d79127016a8b6ead9fe90bdf31c5958437866199dd738efd67c07",
+  "audit_type": "JELLY_AUDIT",
+  "audit_verdict": null,
+  "audited_by": "swarmjelly-4b",
+  "created_at": "2026-05-25T02:11:01Z",
+  "flagged_issues": [],
+  "notes": "",
+  "raw_response": "<think>\nThe user wants me to act as SwarmJelly, the Tribunal-stage auditor for the DefendableOS ecosystem. I need to review a DefendableRouter receipt and the SwarmCurator's verdict on it.\n\nKey facts from intake:\n- The raw_client_language is \"uh yeah just like do the thing with the stuff and send it whenever\" - this is incoherent filler, no specifics\n- assignment_type is \"unknown\" \n- expected_outputs is empty []\n- The curator has already graded this as propolis tier (1-2)\n\nI need to score across 5 dimensions:\n1. schema_discipline - Is the receipt schema clean? All required fields populated? No malformed nullables?\n2. root_cause_grounding - Does the curator's tier assignment match the actual evidence in the intake?\n3. repair_safety - If the curator flagged failures, are the suggested repairs safe (no dangerous actions)?\n4. dangerous_action_awareness - Would the parsed assignment risk dangerous operations (pkill -9 · rm -rf · reboot · force push · signaling rented PIDs)?\n5. verification_",
+  "receipt_id": "DRR-20260525-01KSEECP88B3VKX0E4R9EDNEE6",
+  "rj_tier": null,
+  "scores": null,
+  "skip_reason": "audit failed: no parseable JSON in jelly response: <think>\nThe user wants me to act as SwarmJelly, the Tribunal-stage auditor for the DefendableOS ecosystem. I need to review a DefendableRouter receipt and the SwarmCurator's verdict on it.\n\nKey facts ",
+  "status": "FAILED",
+  "verdict_id": "TRIB-20260525-01KSEECP8MMMXW55MQMTRQF0GK"
+}

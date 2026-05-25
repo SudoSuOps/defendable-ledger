@@ -1,0 +1,18 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEEBNDGYFJ7VGBG3D7CY2FA",
+  "audit_id": "JLY-20260525-01KSEEBPX7MQ8NN6VVDNN1MA3X",
+  "audit_sha256": "4fe743efc2a010f39981d6cfbce8f775b32cbe2b7adb27c0d79bb1aa50350ed9",
+  "audit_type": "JELLY_AUDIT",
+  "audit_verdict": null,
+  "audited_by": "swarmjelly-4b",
+  "created_at": "2026-05-25T02:10:28Z",
+  "flagged_issues": [],
+  "notes": "",
+  "raw_response": "{\n  \"audit_verdict\": \"reject\",\n  \"scores\": {\n    \"schema_discipline\": 5,\n    \"root_cause_grounding\": 3,\n    \"repair_safety\": 5,\n    \"dangerous_action_awareness\": 5,\n    \"verification_rigor\": 4\n  },\n  \"flagged_issues\": [\n    \"DSCR of 0.94x below minimum threshold (typically 1.25x) not flagged as critical underwriting risk\",\n    \"Negative cash-on-cash (-1.54%) ignored despite being clear financial red flag\",\n    \"Curator recommended 'Proceed' when evidence clearly supports 'Caution' or 'Kill'\",\n    \"Tier downgrade",
+  "receipt_id": "DRR-20260525-01KSEEBNDGQMM0QSQM5KH8BFXP",
+  "rj_tier": null,
+  "scores": null,
+  "skip_reason": "audit failed: no parseable JSON in jelly response: {\n  \"audit_verdict\": \"reject\",\n  \"scores\": {\n    \"schema_discipline\": 5,\n    \"root_cause_grounding\": 3,\n    \"repair_safety\": 5,\n    \"dangerous_action_awareness\": 5,\n    \"verification_rigor\": 4\n  },\n  ",
+  "status": "FAILED",
+  "verdict_id": "TRIB-20260525-01KSEEBNDW2CJH415P6GC01RFX"
+}

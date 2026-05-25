@@ -1,0 +1,30 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEEBNDGYFJ7VGBG3D7CY2FA",
+  "assignment_success": true,
+  "created_at": "2026-05-25T02:10:26Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Strong CRE underwriting intake with specific financials, clear assignment type, and operator-grade urgency. Minor deduction for negative cash-on-cash not flagged as critical risk in raw language.",
+  "receipt_id": "DRR-20260525-01KSEEBNDGQMM0QSQM5KH8BFXP",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.8,
+    "format": 5.0,
+    "score": 4.7
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSEEBNDW2CJH415P6GC01RFX",
+  "verdict_sha256": "4fb8731a4458ddddc90a359f6d08ba5753b549c14f02adcc7bc3cde55e91c5a1",
+  "verdict_type": "TRIBUNAL_VERDICT",
+  "vocab_density": 0.1013,
+  "vocab_terms_seen": [
+    "cap-rate",
+    "dscr",
+    "ic-memo",
+    "nnn",
+    "noi"
+  ]
+}
