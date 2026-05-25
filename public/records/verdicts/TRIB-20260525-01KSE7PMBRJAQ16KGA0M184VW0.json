@@ -1,0 +1,20 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE7PMB8WHVNNDP348XASS5V",
+  "assignment_success": false,
+  "created_at": "2026-05-25T00:14:06Z",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Receipt is structurally valid but tribunal output is stubbed with null verdicts, indicating incomplete adjudication. Operator-grade evidence is present but lacks final classification.",
+  "receipt_id": "DRR-20260525-01KSE7PMB8AG63XFMXMSC0R7DR",
+  "rubric_scores": {
+    "accuracy": 4.0,
+    "cre_judgment": 3.0,
+    "format": 4.5,
+    "score": 3.875
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "jelly",
+  "verdict_id": "TRIB-20260525-01KSE7PMBRJAQ16KGA0M184VW0",
+  "verdict_sha256": "2b84924016a7b073a62e34e4e1e73d26390c06769c334fcb650f566e17bcccad",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

@@ -1,0 +1,26 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSE7PMB8WHVNNDP348XASS5V",
+  "created_at": "2026-05-25T00:14:08Z",
+  "input": "ring ring hello dev mr defendable here ship me the board proposal and flight sheet",
+  "output": {
+    "assignment_type": "board_proposal",
+    "expected_outputs": [
+      "proposal",
+      "flight_sheet",
+      "receipt"
+    ],
+    "urgency": "high"
+  },
+  "pair_id": "SJP-20260525-01KSE7PP6MSJH0GMW22KQFTA7R",
+  "pair_sha256": "b7c829498faa3952f24cd20b1c013ef6d00d1de392949e7125faba72602a2593",
+  "pair_type": "SWARMJELLY_PAIR",
+  "receipt_id": "DRR-20260525-01KSE7PMB8AG63XFMXMSC0R7DR",
+  "rubric_scores": {
+    "accuracy": 4.0,
+    "cre_judgment": 3.0,
+    "format": 4.5,
+    "score": 3.875
+  },
+  "tier": "jelly",
+  "verdict_id": "TRIB-20260525-01KSE7PMBRJAQ16KGA0M184VW0"
+}
