@@ -1,0 +1,18 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEBK8YFMFC8E0X2ZF3VSP6P",
+  "audit_id": "JLY-20260525-01KSEBKAATC2GD2J2YJGMBHVAJ",
+  "audit_sha256": "f54685300395f896a1a8ca21317fc8f52b9447c91eb24ac74f5f57784ae716c4",
+  "audit_type": "JELLY_AUDIT",
+  "audit_verdict": null,
+  "audited_by": "swarmjelly-4b",
+  "created_at": "2026-05-25T01:22:11Z",
+  "flagged_issues": [],
+  "notes": "",
+  "raw_response": "<think>\nThe user wants me to act as SwarmJelly, the Tribunal-stage auditor for the DefendableOS ecosystem. I need to review a DefendableRouter receipt and the SwarmCurator's verdict on it.\n\nKey facts from the intake:\n- The raw_client_language is \"uh yeah just like do the thing with the stuff and send it whenever\" - this is incoherent filler with no specifics\n- assignment_type is \"unknown\" \n- expected_outputs is empty []\n- This fails all CRE-broker sniff test criteria\n\nThe curator's verdict:\n- They correctly identified that raw_client_language is incoherent filler\n- They flagged TIER_PROPOLIS (which is correct - this is a low-quality input)\n- They gave rubric scores of 0.5 across the board for accuracy, cre_judgment, format, and score\n\nThe receipt itself has:\n- Proper schema structure with all required fields populated\n- Valid hashes (canonical_receipt_sha256 and receipt_sha256 are present)\n- Provenance information is well-formed\n- object_storage_uri is properly formatted\n- source_type ",
+  "receipt_id": "DRR-20260525-01KSEBK8YFNAFHEJGYWJPGCR98",
+  "rj_tier": null,
+  "scores": null,
+  "skip_reason": "audit failed: no parseable JSON in jelly response: <think>\nThe user wants me to act as SwarmJelly, the Tribunal-stage auditor for the DefendableOS ecosystem. I need to review a DefendableRouter receipt and the SwarmCurator's verdict on it.\n\nKey facts ",
+  "status": "FAILED",
+  "verdict_id": "TRIB-20260525-01KSEBK8YSAGYDBWDA0JJMD07K"
+}

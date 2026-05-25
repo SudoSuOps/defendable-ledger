@@ -1,0 +1,22 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEBJ7CJXPSXGG201WB7NK38",
+  "assignment_success": true,
+  "created_at": "2026-05-25T01:21:36Z",
+  "flag_reasons": [],
+  "flag_severity": "info",
+  "graded_by": "swarmcurator-9b",
+  "notes": "Strong operator-grade disposition request with specific asset (Franklin Ave STNL), locked price guidance (5 cap), and clear board-call urgency. Minor deduction for 'ring ring' filler but core signal is principal-level.",
+  "receipt_id": "DRR-20260525-01KSEBJ7CJ3RBNHMD2CZ39KNVF",
+  "rubric_scores": {
+    "accuracy": 4.5,
+    "cre_judgment": 4.8,
+    "format": 4.5,
+    "score": 4.7
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "honey",
+  "verdict_id": "TRIB-20260525-01KSEBJ7CWZ0SEH4GGVX1BM2SB",
+  "verdict_sha256": "d9d16ed3b69793232ed6061f572b75825271bdd82307dcaf5a09cacc7eabbf40",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

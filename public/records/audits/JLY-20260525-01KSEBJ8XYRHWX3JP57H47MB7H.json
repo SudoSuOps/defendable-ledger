@@ -1,0 +1,18 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEBJ7CJXPSXGG201WB7NK38",
+  "audit_id": "JLY-20260525-01KSEBJ8XYRHWX3JP57H47MB7H",
+  "audit_sha256": "ef45c9319b20d265cfb283cdf6ac89317b94fce57293e7746918399160573463",
+  "audit_type": "JELLY_AUDIT",
+  "audit_verdict": null,
+  "audited_by": "swarmjelly-4b",
+  "created_at": "2026-05-25T01:21:37Z",
+  "flagged_issues": [],
+  "notes": "",
+  "raw_response": "<think>\nThe user wants me to act as SwarmJelly, the Tribunal-stage auditor for the DefendableOS ecosystem. I need to review a DefendableRouter receipt and the SwarmCurator's verdict on it.\n\nKey facts from the intake:\n- Client language is informal but clear: \"ring ring · mr defendable here · ship the disposition flight sheet for the franklin avenue STNL · price guidance is locked at 5 cap · need it for the wednesday board call\"\n- The parsed assignment expects outputs including \"flight_sheet\", \"receipt\", and \"comp_set\"\n- The receipt shows a canonical SHA256 hash, object storage URI, provenance info (cuda version, gpu model, host), and source type\n\nI need to score across 5 dimensions:\n1. schema_discipline - Is the receipt schema clean? All required fields populated? No malformed nullables?\n2. root_cause_grounding - Does the curator's tier assignment match the actual evidence in the intake?\n3. repair_safety - If failures were flagged, are suggested repairs safe? (No failures here)\n4. dange",
+  "receipt_id": "DRR-20260525-01KSEBJ7CJ3RBNHMD2CZ39KNVF",
+  "rj_tier": null,
+  "scores": null,
+  "skip_reason": "audit failed: no parseable JSON in jelly response: <think>\nThe user wants me to act as SwarmJelly, the Tribunal-stage auditor for the DefendableOS ecosystem. I need to review a DefendableRouter receipt and the SwarmCurator's verdict on it.\n\nKey facts ",
+  "status": "FAILED",
+  "verdict_id": "TRIB-20260525-01KSEBJ7CWZ0SEH4GGVX1BM2SB"
+}

@@ -1,0 +1,28 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEBK8YFMFC8E0X2ZF3VSP6P",
+  "assignment_success": false,
+  "created_at": "2026-05-25T01:22:10Z",
+  "flag_reasons": [
+    "TIER_PROPOLIS",
+    "LOW_RUBRIC_ACCURACY:0.5",
+    "LOW_RUBRIC_CRE_JUDGMENT:0.5",
+    "LOW_RUBRIC_FORMAT:0.5",
+    "LOW_RUBRIC_SCORE:0.5"
+  ],
+  "flag_severity": "warn",
+  "graded_by": "swarmcurator-9b",
+  "notes": "raw_client_language is incoherent filler with no specifics, assignment_type is unknown, expected_outputs is empty - fails all CRE-broker sniff test criteria",
+  "receipt_id": "DRR-20260525-01KSEBK8YFNAFHEJGYWJPGCR98",
+  "rubric_scores": {
+    "accuracy": 0.5,
+    "cre_judgment": 0.5,
+    "format": 0.5,
+    "score": 0.5
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "propolis",
+  "verdict_id": "TRIB-20260525-01KSEBK8YSAGYDBWDA0JJMD07K",
+  "verdict_sha256": "6bd9aae7b72427670002ac86f53b0610a234ef94849658fb68b25870b6497b27",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}

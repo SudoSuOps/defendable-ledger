@@ -1,0 +1,18 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEBM9Q6J1AGXC1PBHX58N79",
+  "audit_id": "JLY-20260525-01KSEBMB55AW20N6JMRT6JWR4B",
+  "audit_sha256": "599081f41b9694f8164e0e33aeb754f3df8f0fa6d5ca8b594b5738268b086e53",
+  "audit_type": "JELLY_AUDIT",
+  "audit_verdict": null,
+  "audited_by": "swarmjelly-4b",
+  "created_at": "2026-05-25T01:22:45Z",
+  "flagged_issues": [],
+  "notes": "",
+  "raw_response": "<think>\nThe user wants me to act as SwarmJelly, the Tribunal-stage auditor for the DefendableOS ecosystem. I need to review a DefendableRouter receipt and the SwarmCurator's verdict on it.\n\nKey facts from the data:\n- The intake has `parsed_assignment` with `assignment_type\":\"empty_intake\"` and empty arrays/fields\n- The raw_client_language is completely empty string \"\"\n- The curator assigned TIER_PROPOLIS (which means mean score 1-2)\n- The curator's verdict says \"pure propolis failure mode data for SwarmFixer\"\n\nI need to evaluate across all 5 dimensions:\n\n1. schema_discipline - Is the receipt schema clean? All required fields populated? No malformed nullables?\n   - The receipt has hashes, provenance, object_storage_uri, receipt_id, source_type - looks complete\n   - But the parsed_assignment has empty_intake as assignment_type and empty arrays\n   - This is a valid schema structure but represents bad data\n\n2. root_cause_grounding - Does the curator's tier assignment match the actual evide",
+  "receipt_id": "DRR-20260525-01KSEBM9Q6BHJ5046SZS1KGEAD",
+  "rj_tier": null,
+  "scores": null,
+  "skip_reason": "audit failed: no parseable JSON in jelly response: <think>\nThe user wants me to act as SwarmJelly, the Tribunal-stage auditor for the DefendableOS ecosystem. I need to review a DefendableRouter receipt and the SwarmCurator's verdict on it.\n\nKey facts ",
+  "status": "FAILED",
+  "verdict_id": "TRIB-20260525-01KSEBM9QD7J6183GH60TRNKXF"
+}

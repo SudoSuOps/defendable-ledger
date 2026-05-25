@@ -1,0 +1,28 @@
+{
+  "assignment_id": "ASSIGN-20260525-01KSEBM9Q6J1AGXC1PBHX58N79",
+  "assignment_success": false,
+  "created_at": "2026-05-25T01:22:44Z",
+  "flag_reasons": [
+    "TIER_PROPOLIS",
+    "LOW_RUBRIC_ACCURACY:0.0",
+    "LOW_RUBRIC_CRE_JUDGMENT:0.0",
+    "LOW_RUBRIC_FORMAT:0.0",
+    "LOW_RUBRIC_SCORE:0.0"
+  ],
+  "flag_severity": "warn",
+  "graded_by": "swarmcurator-9b",
+  "notes": "empty_intake assignment_type with zero raw_client_language and empty expected_outputs fails all CRE-broker sniff tests; this is pure propolis failure mode data for SwarmFixer",
+  "receipt_id": "DRR-20260525-01KSEBM9Q6BHJ5046SZS1KGEAD",
+  "rubric_scores": {
+    "accuracy": 0.0,
+    "cre_judgment": 0.0,
+    "format": 0.0,
+    "score": 0.0
+  },
+  "skip_reason": null,
+  "status": "GRADED",
+  "tier": "propolis",
+  "verdict_id": "TRIB-20260525-01KSEBM9QD7J6183GH60TRNKXF",
+  "verdict_sha256": "9ff382563b11067d8e6bdb792b269cd5077b7073ce8c385ef76a2fae25db0df9",
+  "verdict_type": "TRIBUNAL_VERDICT"
+}
